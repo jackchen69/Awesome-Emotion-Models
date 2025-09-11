@@ -57,6 +57,11 @@ This is the first work to comprehensive review of recent advancements in both un
   - [Multi-modal Emotion Recognition](#multi-modal-emotion-recognition)
 - [Awesome Datasets](#awesome-datasets)
   - [Datasets of emotion recognition](#datasets-of-emotion-recognition)
+  - [Uni-modal Emotion Recognition](#uni-modal-emotion-recognition)
+  - [Facial Emotion Recognition](#facial-emotion-recognition)
+  - [Speech Emotion Recognition](#speech-emotion-recognition)
+  - [Text Emotion Recognition](#text-emotion-recognition)
+
 ---
 
 # Awesome Papers
