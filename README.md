@@ -69,21 +69,25 @@ This is the first work to comprehensive review of recent advancements in both un
 
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/priya-dwivedi/face_and_emotion_detection.svg?style=social\&label=Star) <br> [**Facial Emotion Recognition using CNN**](https://github.com/priya-dwivedi/face_and_emotion_detection) <br> |   GitHub  | 2023-09-11 |   [Github](https://github.com/priya-dwivedi/face_and_emotion_detection)  |                           -                          |
+| ![Star](https://img.shields.io/github/stars/priya-dwivedi/face_and_emotion_detection.svg?style=social\&label=Star) <br> [**Facial Emotion Recognition using CNN**](https://github.com/priya-dwivedi/face_and_emotion_detection) <br> |   arXiv  | 2023-09-11 |   [Github](https://github.com/priya-dwivedi/face_and_emotion_detection)  |                           -                          |
 
 
 
 ### Speech Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Speech Emotion Recognition using CNN**](https://github.com/jianjliu/SpeechEmotionRecognition)                                                                        |   GitHub  | 2023-04-20 | [Github](https://github.com/jianjliu/SpeechEmotionRecognition) |                                  -                                 
+| ![Star](https://img.shields.io/github/stars/jianjliu/SpeechEmotionRecognition.svg?style=social\&label=Star) <br> [**Speech Emotion Recognition using CNN**](https://github.com/jianjliu/SpeechEmotionRecognition)                                                          |  arXiv | 2023-04-20 | [Github](https://github.com/jianjliu/SpeechEmotionRecognition) |   -  |
+| ![Star](https://img.shields.io/github/stars/DeepAffectiveSpeech/DeepAffectiveSpeech.svg?style=social\&label=Star) <br> [**DeepAffectiveSpeech: A Deep Learning Framework for Speech Emotion Recognition**](https://github.com/DeepAffectiveSpeech/DeepAffectiveSpeech)     | GitHub | 2023-08-17 |        [Demo](https://deepaffectivespeech.streamlit.app)       |      |
+| ![Star](https://img.shields.io/github/stars/umairahmad1/Emotion-Recognition-From-Speech-Using-CNN-MLP.svg?style=social\&label=Star) <br> [**Emotion Recognition From Speech Using CNN-MLP**](https://github.com/umairahmad1/Emotion-Recognition-From-Speech-Using-CNN-MLP) | GitHub | 2023-07-12 |                                -                               |      |
+| ![Star](https://img.shields.io/github/stars/zeeshanrana/speech-emotion-recognition-pytorch.svg?style=social\&label=Star) <br> [**Speech Emotion Recognition with Pytorch**](https://github.com/zeeshanrana/speech-emotion-recognition-pytorch)                             | GitHub | 2023-05-23 |                                -                               |      |
+| ![Star](https://img.shields.io/github/stars/D4veW7/Speech-Emotion-Recognition-using-RNN.svg?style=social\&label=Star) <br> [**Speech Emotion Recognition using RNN**](https://github.com/D4veW7/Speech-Emotion-Recognition-using-RNN)                                      | GitHub | 2023-03-10 |    [Demo](https://speech-emotion-recognition.streamlit.app)    |      |
 
 
 ### Text Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/SannketNikam/Emotion-Detection-in-Text.svg?style=social\&label=Star) <br> [**Emotion-Detection-in-Text**](https://github.com/SannketNikam/Emotion-Detection-in-Text)                                                                                       | SannketNikam | 2025-08-15 | [Demo](https://emotion-detection-in-text.streamlit.app) |      |
-| ![Star](https://img.shields.io/github/stars/rejonehridoy/Emotion_Detection_from_Text_using_Machine_Learning.svg?style=social\&label=Star) <br> [**Emotion\_Detection\_from\_Text\_using\_Machine\_Learning**](https://github.com/rejonehridoy/Emotion_Detection_from_Text_using_Machine_Learning)      | rejonehridoy | 2025-08-12 |                            -                            |      |
+| ![Star](https://img.shields.io/github/stars/SannketNikam/Emotion-Detection-in-Text.svg?style=social\&label=Star) <br> [**Emotion-Detection-in-Text**](https://github.com/SannketNikam/Emotion-Detection-in-Text)                                                                                       | arXiv | 2025-08-15 | [Demo](https://emotion-detection-in-text.streamlit.app) |      |
+| ![Star](https://img.shields.io/github/stars/rejonehridoy/Emotion_Detection_from_Text_using_Machine_Learning.svg?style=social\&label=Star) <br> [**Emotion\_Detection\_from\_Text\_using\_Machine\_Learning**](https://github.com/rejonehridoy/Emotion_Detection_from_Text_using_Machine_Learning)      | arXiv | 2025-08-12 |                            -                            |      |
 
 
 ## Multi-modal Emotion Recognition
