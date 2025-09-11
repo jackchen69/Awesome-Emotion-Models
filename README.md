@@ -76,11 +76,7 @@ This is the first work to comprehensive review of recent advancements in both un
 ### Speech Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/jianjliu/SpeechEmotionRecognition.svg?style=social\&label=Star) <br> [**Speech Emotion Recognition using CNN**](https://github.com/jianjliu/SpeechEmotionRecognition)                                                          |  arXiv | 2023-04-20 | [Github](https://github.com/jianjliu/SpeechEmotionRecognition) |   -  |
-| ![Star](https://img.shields.io/github/stars/DeepAffectiveSpeech/DeepAffectiveSpeech.svg?style=social\&label=Star) <br> [**DeepAffectiveSpeech: A Deep Learning Framework for Speech Emotion Recognition**](https://github.com/DeepAffectiveSpeech/DeepAffectiveSpeech)     | GitHub | 2023-08-17 |        [Demo](https://deepaffectivespeech.streamlit.app)       |      |
-| ![Star](https://img.shields.io/github/stars/umairahmad1/Emotion-Recognition-From-Speech-Using-CNN-MLP.svg?style=social\&label=Star) <br> [**Emotion Recognition From Speech Using CNN-MLP**](https://github.com/umairahmad1/Emotion-Recognition-From-Speech-Using-CNN-MLP) | GitHub | 2023-07-12 |                                -                               |      |
-| ![Star](https://img.shields.io/github/stars/zeeshanrana/speech-emotion-recognition-pytorch.svg?style=social\&label=Star) <br> [**Speech Emotion Recognition with Pytorch**](https://github.com/zeeshanrana/speech-emotion-recognition-pytorch)                             | GitHub | 2023-05-23 |                                -                               |      |
-| ![Star](https://img.shields.io/github/stars/D4veW7/Speech-Emotion-Recognition-using-RNN.svg?style=social\&label=Star) <br> [**Speech Emotion Recognition using RNN**](https://github.com/D4veW7/Speech-Emotion-Recognition-using-RNN)                                      | GitHub | 2023-03-10 |    [Demo](https://speech-emotion-recognition.streamlit.app)    |      |
+| ![Star](https://img.shields.io/github/stars/zyangma/emotion2vec.svg?style=social\&label=Star) <br> [**emotion2vec: Self-Supervised Pre-Training for Speech Emotion Representation**](https://github.com/zyangma/emotion2vec)                                               |  arXiv | 2023-06-10 |        [Github](https://github.com/zyangma/emotion2vec)        |   -  |
 
 
 ### Text Emotion Recognition
