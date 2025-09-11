@@ -82,24 +82,17 @@ This is the first work to comprehensive review of recent advancements in both un
 ### Text Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/joeddav/bertology-emo.svg?style=social\&label=Star) <br> [**BERT for Emotion Classification in Text**](https://github.com/joeddav/bertology-emo) <br>                                                  |   GitHub  | 2023-06-30 |  [Github](https://github.com/joeddav/bertology-emo)  |      [Demo](https://huggingface.co/spaces/joeddav/bertology-emo-demo)     |
+| ![Star](https://img.shields.io/github/stars/joeddav/bertology-emo.svg?style=social\&label=Star) <br> [**BERT for Emotion Classification in Text**](https://github.com/joeddav/bertology-emo) <br>                                                  |   GitHub  | 2023-06-30 |                        [Github](https://github.com/joeddav/bertology-emo)                       |      [Demo](https://huggingface.co/spaces/joeddav/bertology-emo-demo)     |
+| ![Star](https://img.shields.io/github/stars/THUDM/GLM-4.1V-Thinking.svg?style=social\&label=Star) <br> [**GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning**](https://arxiv.org/pdf/2507.01006) <br> |   arXiv   | 2025-07-02 |                       [Github](https://github.com/THUDM/GLM-4.1V-Thinking)                      | [Demo](https://huggingface.co/spaces/THUDM/GLM-4.1V-9B-Thinking-API-Demo) |
+| [**Emotion Detection in Text using LSTM**](https://github.com/abhi227070/Emotion-Detection-of-text-using-LSTM-Internship-Project)                                                                                                                  |   GitHub  | 2023-08-08 | [Github](https://github.com/abhi227070/Emotion-Detection-of-text-using-LSTM-Internship-Project) |                                     -                                     |
+| [**Text Emotion Recognition using RoBERTa**](https://arxiv.org/abs/2005.06676) <br>                                                                                                                                                                |   arXiv   | 2020-05-15 |                      [Github](https://github.com/facebookresearch/roberta)                      |        [Demo](https://huggingface.co/spaces/facebook/roberta-demo)        |
+| [**Text-Emotion-Recognition**](https://github.com/EslamFouadd/Text-Emotion-Recognition)                                                                                                                                                            |   GitHub  | 2023-08-10 |                [Github](https://github.com/EslamFouadd/Text-Emotion-Recognition)                |                                     -                                     |
 
 ## Multi-modal Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/1zhou-Wang/MemVR.svg?style=social&label=Star) <br> [**Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models**](https://arxiv.org/pdf/2410.03577) <br> | arXiv | 2024-10-04 | [Github](https://github.com/1zhou-Wang/MemVR) | - |
-| ![Star](https://img.shields.io/github/stars/nickjiang2378/vl-interp.svg?style=social&label=Star) <br> [**Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations**](https://arxiv.org/pdf/2410.02762) <br> | arXiv | 2024-10-03 | [Github](https://github.com/nickjiang2378/vl-interp/) | - |
-| [**FIHA: Autonomous Hallucination Evaluation in Vision-Language Models with Davidson Scene Graphs**](https://arxiv.org/pdf/2409.13612) | arXiv | 2024-09-20 | [Link](https://anonymous.4open.science/r/FIHA-45BB) | - | 
-| [**Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation**](https://arxiv.org/pdf/2408.00555) | arXiv | 2024-08-01 | - | - |
-| ![Star](https://img.shields.io/github/stars/LALBJ/PAI.svg?style=social&label=Star) <br> [**Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs**](https://arxiv.org/pdf/2407.21771) <br> | ECCV | 2024-07-31 | [Github](https://github.com/LALBJ/PAI) | - |
-| ![Star](https://img.shields.io/github/stars/mrwu-mac/R-Bench.svg?style=social&label=Star) <br> [**Evaluating and Analyzing Relationship Hallucinations in LVLMs**](https://arxiv.org/pdf/2406.16449) <br> | ICML | 2024-06-24 | [Github](https://github.com/mrwu-mac/R-Bench) | - |
-| ![Star](https://img.shields.io/github/stars/Lackel/AGLA.svg?style=social&label=Star) <br> [**AGLA: Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention**](https://arxiv.org/pdf/2406.12718) <br> | arXiv | 2024-06-18 | [Github](https://github.com/Lackel/AGLA) | - |
-| [**CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models**](https://arxiv.org/pdf/2406.01920) | arXiv | 2024-06-04 | [Coming soon]() | - |
-| [**Mitigating Object Hallucination via Data Augmented Contrastive Tuning**](https://arxiv.org/pdf/2405.18654) | arXiv | 2024-05-28 | [Coming soon]() | - |
-| [**VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap**](https://arxiv.org/pdf/2405.15683) | arXiv | 2024-05-24 | [Coming soon]() | - |
-| [**Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback**](https://arxiv.org/pdf/2404.14233.pdf) | arXiv | 2024-04-22 | - | - |
-| [**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**](https://arxiv.org/pdf/2403.18715.pdf) | arXiv | 2024-03-27 | - | - |
-| ![Star](https://img.shields.io/github/stars/IVY-LVLM/Counterfactual-Inception.svg?style=social&label=Star) <br> [**What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models**](https://arxiv.org/pdf/2403.13513.pdf) <br> | arXiv | 2024-03-20 | [Github](https://github.com/IVY-LVLM/Counterfactual-Inception) | - |
+
+
 
 
 ## Datasets of Emotion Recognition
