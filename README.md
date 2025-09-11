@@ -66,11 +66,11 @@ This is the first work to comprehensive review of recent advancements in both un
 ## Uni-modal Emotion Recognition
 
 ### Facial Emotion Recognition
-| **Title**                                                                                                                                                                                                                            | **Venue** |  **Date**  |                                 **Code**                                 |                       **Demo**                       |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :--------: | :----------------------------------------------------------------------: | :--------------------------------------------------: |
+
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/priya-dwivedi/face_and_emotion_detection.svg?style=social\&label=Star) <br> [**Facial Emotion Recognition using CNN**](https://github.com/priya-dwivedi/face_and_emotion_detection) <br> |   GitHub  | 2023-09-11 |   [Github](https://github.com/priya-dwivedi/face_and_emotion_detection)  |                           -                          |
-| ![Star](https://img.shields.io/github/stars/jianjliu/Fer2013-CNN.svg?style=social\&label=Star) <br> [**FER-2013 Facial Emotion Recognition**](https://github.com/jianjliu/Fer2013-CNN) <br>                                          |   GitHub  | 2023-06-14 |             [Github](https://github.com/jianjliu/Fer2013-CNN)            | [Demo](https://github.com/jianjliu/Fer2013-CNN#demo) |
-| [**Emotion Recognition on Video Frames**](https://arxiv.org/abs/2106.04649) <br>                                                                                                                                                     |   arXiv   | 2021-06-12 | [Github](https://github.com/yangsenius/Emotion-Recognition-Video-Frames) |  [Demo](https://www.youtube.com/watch?v=OFL7qVPRYVw) |
+
 
 
 ### Speech Emotion Recognition
