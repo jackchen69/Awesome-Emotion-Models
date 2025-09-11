@@ -87,8 +87,8 @@ This is the first work to comprehensive review of recent advancements in both un
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/CMU-MultiComp-Lab/CMU-MultimodalSDK.svg?style=social&label=291) <br> [**Multimodal Sentiment Analysis on CMU-MOSEI Dataset using Transformer-based Models**](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK) | ACL | 2017-07-01 | [GitHub](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK)|
-| ![Star](https://img.shields.io/github/stars/WasifurRahman/BERT_multimodal_transformer.svg?style=social&label=Star) <br> [**Multimodal Transformer for Emotion Recognition**](https://github.com/WasifurRahman/BERT_multimodal_transformer) | ACL | 2020-05-10 | [GitHub](https://github.com/WasifurRahman/BERT_multimodal_transformer) |      |
-| ![Star](https://img.shields.io/github/stars/Justin1904/TensorFusionNetworks.svg?style=social&label=Star) <br> [**TensorFusionNetworks**](https://github.com/Justin1904/TensorFusionNetworks) | EMNLP | 2017-09-01 | [GitHub](https://github.com/Justin1904/TensorFusionNetworks) |      |
+| ![Star](https://img.shields.io/github/stars/WasifurRahman/BERT_multimodal_transformer.svg?style=social&label=Star) <br> [**Integrating Multimodal Information in Large Pretrained Transformers**](https://github.com/WasifurRahman/BERT_multimodal_transformer) | ACL | 2020-05-10 | [GitHub](https://github.com/WasifurRahman/BERT_multimodal_transformer) |      |
+| ![Star](https://img.shields.io/github/stars/Justin1904/TensorFusionNetworks.svg?style=social&label=Star) <br> [**Tensor Fusion Network for Multimodal Sentiment Analysis**](https://github.com/Justin1904/TensorFusionNetworks) | EMNLP | 2017-09-01 | [GitHub](https://github.com/Justin1904/TensorFusionNetworks) |      |
 
 
 
