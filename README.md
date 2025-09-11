@@ -81,18 +81,17 @@ This is the first work to comprehensive review of recent advancements in both un
 ### Text Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/SannketNikam/Emotion-Detection-in-Text.svg?style=social\&label=Star) <br> [**Emotion Detection in Text using Natural Language Processing**](https://github.com/SannketNikam/Emotion-Detection-in-Text)                                                                                       | arXiv | 2025-08-15 | [Demo](https://emotion-detection-in-text.streamlit.app) |      |
+| ![Star](https://img.shields.io/github/stars/SannketNikam/Emotion-Detection-in-Text.svg?style=social\&label=Star) <br> [**Emotion Detection in Text using Natural Language Processing**](https://github.com/SannketNikam/Emotion-Detection-in-Text)                                                                                       | arXiv | 2025-08-15 | [Github](https://emotion-detection-in-text.streamlit.app) |      |
 | ![Star](https://img.shields.io/github/stars/rejonehridoy/Emotion_Detection_from_Text_using_Machine_Learning.svg?style=social\&label=Star) <br> [**Emotion Detection from Text using Machine Learning**](https://github.com/rejonehridoy/Emotion_Detection_from_Text_using_Machine_Learning)      | arXiv | 2025-08-12 |                            -                            |      |
 
 
 ## Multi-modal Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/CMU-MultiComp-Lab/CMU-MultimodalSDK.svg?style=social&label=Star) <br> [**CMU-Multimodal SDK**](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK) | ACL | 2017-07-01 | [PyPI](https://pypi.org/project/cmumultimodalSDK/) |      |
-| ![Star](https://img.shields.io/github/stars/facebookresearch/mmbt.svg?style=social&label=Star) <br> [**Supervised Multimodal Bitransformers for Classifying Images and Text**](https://github.com/facebookresearch/mmbt) | arXiv | 2019-09-05 | - |      |
-| ![Star](https://img.shields.io/github/stars/WasifurRahman/BERT_multimodal_transformer.svg?style=social&label=Star) <br> [**Multimodal Transformer for Emotion Recognition**](https://github.com/WasifurRahman/BERT_multimodal_transformer) | ACL | 2020-05-10 | - |      |
+| ![Star](https://img.shields.io/github/stars/CMU-MultiComp-Lab/CMU-MultimodalSDK.svg?style=social&label=Star) <br> [**CMU-Multimodal SDK**](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK) | ACL | 2017-07-01 | [Github](https://pypi.org/project/cmumultimodalSDK/) |      |
+| ![Star](https://img.shields.io/github/stars/facebookresearch/mmbt.svg?style=social&label=Star) <br> [**Supervised Multimodal Bitransformers for Classifying Images and Text**][Github](https://github.com/facebookresearch/mmbt) | arXiv | 2019-09-05 | - |      |
 | ![Star](https://img.shields.io/github/stars/A2Zadeh/CMU-Multimodal-Sentiment-Analysis.svg?style=social&label=Star) <br> [**Tensor Fusion Network for Multimodal Sentiment Analysis**](https://github.com/A2Zadeh/CMU-Multimodal-Sentiment-Analysis) | EMNLP | 2017-09-01 | - |      |
-| ![Star](https://img.shields.io/github/stars/Justin1904/TensorFusionNetworks.svg?style=social&label=Star) <br> [**TensorFusionNetworks**](https://github.com/Justin1904/TensorFusionNetworks) | EMNLP | 2017-09-01 | - |      |
+| ![Star](https://img.shields.io/github/stars/Justin1904/TensorFusionNetworks.svg?style=social&label=Star) <br> [**TensorFusionNetworks**][Github](https://github.com/Justin1904/TensorFusionNetworks) | EMNLP | 2017-09-01 | - |      |
 
 
 
