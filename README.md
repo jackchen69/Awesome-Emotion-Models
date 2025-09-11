@@ -64,16 +64,27 @@ This is the first work to comprehensive review of recent advancements in both un
 # Awesome Papers
 
 ## Uni-modal Emotion Recognition
+
+### Facial Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency**](https://arxiv.org/pdf/2508.18265) <br> | arXiv | 2025-08-27 | [Github](https://github.com/OpenGVLab/InternVL) | [Demo](https://chat.intern-ai.org.cn/) |
 | **MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone** | - | 2025-08-26 | [Github](https://github.com/OpenBMB/MiniCPM-o) | [Demo](http://101.126.42.235:30910/) |
 | ![Star](https://img.shields.io/github/stars/yfzhang114/Thyme.svg?style=social&label=Star) <br> [**Thyme: Think Beyond Images**](https://arxiv.org/pdf/2508.11630) <br> | arXiv | 2025-08-18 | [Github](https://github.com/yfzhang114/Thyme) | [Demo](https://thyme-vl.github.io/) |
+
+### Speech Emotion Recognition
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Introducing GPT-5**](https://openai.com/index/introducing-gpt-5/) | OpenAI | 2025-08-07 | - | - |
-| ![Star](https://img.shields.io/github/stars/rednote-hilab/dots.vlm1.svg?style=social&label=Star) <br> [**dots.vlm1**](https://github.com/rednote-hilab/dots.vlm1) <br> | rednote-hilab | 2025-08-06 | [Github](https://github.com/rednote-hilab/dots.vlm1) | [Demo](https://huggingface.co/spaces/rednote-hilab/dots-vlm1-demo) | 
+| ![Star](https://img.shields.io/github/stars/rednote-hilab/dots.vlm1.svg?style=social&label=Star) <br> [**dots.vlm1**](https://github.com/rednote-hilab/dots.vlm1) <br> | rednote-hilab | 2025-08-06 | [Github](https://github.com/rednote-hilab/dots.vlm1) | [Demo](https://huggingface.co/spaces/rednote-hilab/dots-vlm1-demo) |
 | ![Star](https://img.shields.io/github/stars/THUDM/GLM-4.1V-Thinking.svg?style=social&label=Star) <br> [**Step3: Cost-Effective Multimodal Intelligence**](https://stepfun.ai/research/step3) <br> | StepFun | 2025-07-31 | [Github](https://github.com/stepfun-ai/Step3) | [Demo](https://stepfun.com/) |
+
+### Text Emotion Recognition
+|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/THUDM/GLM-4.1V-Thinking.svg?style=social&label=Star) <br> [**GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning**](https://arxiv.org/pdf/2507.01006) <br> | arXiv | 2025-07-02 | [Github](https://github.com/THUDM/GLM-4.1V-Thinking) | [Demo](https://huggingface.co/spaces/THUDM/GLM-4.1V-9B-Thinking-API-Demo) |
-| ![Star](https://img.shields.io/github/stars/lxtGH/DenseWorld-1M.svg?style=social&label=Star) <br> [**DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World**](https://arxiv.org/pdf/2506.24102) <br> | arXiv | 2025-06-30 | [Github](https://github.com/lxtGH/DenseWorld-1M) | - |
+| ![Star](https://img.shields.io/github/stars/lxtGH/DenseWorld-1M.svg?style=social&label=Star) <br> [**DenseWorld-1M: Towards Detail**]()
+
 
 ## Multi-modal Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
