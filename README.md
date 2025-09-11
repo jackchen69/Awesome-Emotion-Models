@@ -1,7 +1,7 @@
 # Awesome-Emotion-Models
 
 <p align="center">
-    <img src="./images/emotion.gif" width="100%" height="100%">
+    <img src="./images/emotion.gif" width="20%" height="20%">
 </p>
 
 ## Our MLLM works
