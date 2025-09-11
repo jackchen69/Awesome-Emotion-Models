@@ -1,7 +1,7 @@
 # Awesome-Emotion-Models
 
 <p align="center">
-    <img src="./images/MiG_logo.jpg" width="100%" height="100%">
+    <img src="./images/emotion.jfif" width="100%" height="100%">
 </p>
 
 ## Our MLLM works
@@ -13,20 +13,20 @@ The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sp
 
 ---
 
-🔥🔥🔥 **VITA: Towards Open-Source Interactive Omni Multimodal LLM**  
+🔥🔥🔥 **EmoBench-M: Benchmarking Emotional Intelligence for Multimodal Large Language Models**  
 <p align="center">
     <img src="./images/vita-1.5.jpg" width="60%" height="60%">
 </p>
 
-<font size=7><div align='center' > [[📽 VITA-1.5 Demo Show! Here We Go! 🔥](https://youtu.be/tyi6SVFT5mM?si=fkMQCrwa5fVnmEe7)] </div></font>  
+<font size=7><div align='center' > [[📽 EmoBench-M Demo Show! Here We Go! 🔥]([https://youtu.be/tyi6SVFT5mM?si=fkMQCrwa5fVnmEe7](https://www.youtube.com/watch?v=jfbnKI9Zjb0))] </div></font>  
 
-<font size=7><div align='center' > [[📖 VITA-1.5 Paper](https://arxiv.org/pdf/2501.01957)] [[🌟 GitHub](https://github.com/VITA-MLLM/VITA)] [[🤖 Basic Demo](https://modelscope.cn/studios/modelscope/VITA1.5_demo)] [[🍎 VITA-1.0](https://vita-home.github.io/)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat-group.jpg)]</div></font>  
+<font size=7><div align='center' > [[📖 EmoBench-M Paper](https://arxiv.org/pdf/2502.04424v2)] [[🌟 GitHub](https://github.com/Emo-gml/EmoBench-M)] [[🤖 Basic Demo](https://github.com/Robin-WZQ/multimodal-emotion-recognition-DEMO)] [[🍎 EmoBench-M](https://vita-home.github.io/)] [[💬 WeChat (微信)](https://github.com/VITA-MLLM/VITA/blob/main/asset/wechat-group.jpg)]</div></font>  
 
-<font size=7><div align='center' > We are excited to introduce the **VITA-1.5**, a more powerful and more real-time version. ✨ </div></font>
+<font size=7><div align='center' > We are excited to introduce the **EmoBench-M**, a more powerful and more real-time version. ✨ </div></font>
 
-<font size=7><div align='center' >**All codes of VITA-1.5 have been released**! :star2: </div></font>  
+<font size=7><div align='center' >**All codes of EmoBench-M have been released**! :star2: </div></font>  
 
-You can experience our [Basic Demo](https://modelscope.cn/studios/modelscope/VITA1.5_demo) on ModelScope directly. The Real-Time Interactive Demo needs to be configured according to the [instructions](https://github.com/VITA-MLLM/VITA?tab=readme-ov-file#-real-time-interactive-demo).
+You can experience our [Basic Demo](https://github.com/Robin-WZQ/multimodal-emotion-recognition-DEMO) on ModelScope directly. The Real-Time Interactive Demo needs to be configured according to the [instructions](https://github.com/Robin-WZQ/multimodal-emotion-recognition-DEMO).
 
 
 
