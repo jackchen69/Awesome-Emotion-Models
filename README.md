@@ -88,10 +88,9 @@ This is the first work to comprehensive review of recent advancements in both un
 ## Multi-modal Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/CMU-MultiComp-Lab/CMU-MultimodalSDK.svg?style=social&label=291) <br> [**CMU-Multimodal SDK**](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK) | ACL | 2017-07-01 | [GitHub](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK) <br> [Overleaf](https://www.overleaf.com/project) |      |
-| ![Star](https://img.shields.io/github/stars/facebookresearch/mmbt.svg?style=social&label=Star) <br> [**Supervised Multimodal Bitransformers**](https://github.com/facebookresearch/mmbt) | arXiv | 2019-09-05 | [GitHub](https://github.com/facebookresearch/mmbt) |      |
+| ![Star](https://img.shields.io/github/stars/CMU-MultiComp-Lab/CMU-MultimodalSDK.svg?style=social&label=291) <br> [**Multimodal Sentiment Analysis on CMU-MOSEI Dataset using Transformer-based Models
+**](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK) | ACL | 2017-07-01 | [GitHub](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK) <br> [Overleaf](https://www.overleaf.com/project) |      |
 | ![Star](https://img.shields.io/github/stars/WasifurRahman/BERT_multimodal_transformer.svg?style=social&label=Star) <br> [**Multimodal Transformer for Emotion Recognition**](https://github.com/WasifurRahman/BERT_multimodal_transformer) | ACL | 2020-05-10 | [GitHub](https://github.com/WasifurRahman/BERT_multimodal_transformer) |      |
-| ![Star](https://img.shields.io/github/stars/A2Zadeh/CMU-Multimodal-Sentiment-Analysis.svg?style=social&label=Star) <br> [**Tensor Fusion Network for MSA**](https://github.com/A2Zadeh/CMU-Multimodal-Sentiment-Analysis) | EMNLP | 2017-09-01 | [GitHub](https://github.com/A2Zadeh/CMU-Multimodal-Sentiment-Analysis) |      |
 | ![Star](https://img.shields.io/github/stars/Justin1904/TensorFusionNetworks.svg?style=social&label=Star) <br> [**TensorFusionNetworks**](https://github.com/Justin1904/TensorFusionNetworks) | EMNLP | 2017-09-01 | [GitHub](https://github.com/Justin1904/TensorFusionNetworks) |      |
 
 
