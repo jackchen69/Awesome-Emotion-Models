@@ -81,8 +81,8 @@ This is the first work to comprehensive review of recent advancements in both un
 ### Text Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/SannketNikam/Emotion-Detection-in-Text.svg?style=social\&label=Star) <br> [**Emotion-Detection-in-Text**](https://github.com/SannketNikam/Emotion-Detection-in-Text)                                                                                       | arXiv | 2025-08-15 | [Demo](https://emotion-detection-in-text.streamlit.app) |      |
-| ![Star](https://img.shields.io/github/stars/rejonehridoy/Emotion_Detection_from_Text_using_Machine_Learning.svg?style=social\&label=Star) <br> [**Emotion\_Detection\_from\_Text\_using\_Machine\_Learning**](https://github.com/rejonehridoy/Emotion_Detection_from_Text_using_Machine_Learning)      | arXiv | 2025-08-12 |                            -                            |      |
+| ![Star](https://img.shields.io/github/stars/SannketNikam/Emotion-Detection-in-Text.svg?style=social\&label=Star) <br> [**Emotion Detection in Text using Natural Language Processing**](https://github.com/SannketNikam/Emotion-Detection-in-Text)                                                                                       | arXiv | 2025-08-15 | [Demo](https://emotion-detection-in-text.streamlit.app) |      |
+| ![Star](https://img.shields.io/github/stars/rejonehridoy/Emotion_Detection_from_Text_using_Machine_Learning.svg?style=social\&label=Star) <br> [**Emotion Detection from Text using Machine Learning**](https://github.com/rejonehridoy/Emotion_Detection_from_Text_using_Machine_Learning)      | arXiv | 2025-08-12 |                            -                            |      |
 
 
 ## Multi-modal Emotion Recognition
