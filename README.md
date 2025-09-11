@@ -97,10 +97,6 @@ This is the first work to comprehensive review of recent advancements in both un
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/declare-lab/MELD.svg?style=social&label=Star) <br> [**MELD Dataset**](https://github.com/declare-lab/MELD) | ACL | 2019 | [GitHub](https://github.com/declare-lab/MELD) |      |
 | ![Star](https://img.shields.io/github/stars/CheyneyComputerScience/CREMA-D.svg?style=social&label=Star) <br> [**CREMA-D Dataset**](https://github.com/CheyneyComputerScience/CREMA-D) | ICMI | 2014 | [GitHub](https://github.com/CheyneyComputerScience/CREMA-D) |      |
-| ![Star](https://img.shields.io/github/stars/SEWA-Recognition-Challenge/SEWA-Dataset.svg?style=social&label=Star) <br> [**SEWA Dataset**](https://github.com/SEWA-Recognition-Challenge/SEWA-Dataset) | IEEE | 2019 | [GitHub](https://github.com/SEWA-Recognition-Challenge/SEWA-Dataset) |      |
-| ![Star](https://img.shields.io/github/stars/amigoselab/AMIGOS.svg?style=social&label=Star) <br> [**AMIGOS Dataset**](https://github.com/amigoselab/AMIGOS) | IEEE | 2018 | [GitHub](https://github.com/amigoselab/AMIGOS) |      |
-| ![Star](https://img.shields.io/github/stars/aff-wild/aff-wild2.svg?style=social&label=Star) <br> [**Aff-Wild2 Dataset**](https://github.com/aff-wild/aff-wild2) | CVPR | 2019 | [GitHub](https://github.com/aff-wild/aff-wild2) |      |
-
 
 
 
