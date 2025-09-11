@@ -9,7 +9,7 @@
 🔥🔥🔥 **A Survey on Uni-modal and Multi-modal Models**  
 **[Project Page [This Page]]([https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/Emo-gml/EmoBench-M))** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)** | :black_nib: **[Citation](./images/bib_survey.txt)** | **[💬 WeChat (Emo微信交流群，欢迎加入)](./images/wechat-group.jpg)**
 
-The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sparkles:  
+This is the first work to comprehensive review of recent advancements in both uni-modal and multi-modal emotion recognition systems. :sparkles:  
 
 ---
 
