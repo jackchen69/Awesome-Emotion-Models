@@ -95,16 +95,12 @@ This is the first work to comprehensive review of recent advancements in both un
 ## Datasets of Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/A2Zadeh/CMU-Multimodal-SDK.svg?style=social&label=Star) <br> [**CMU-MOSI / MOSEI Dataset**](https://github.com/A2Zadeh/CMU-Multimodal-SDK) | ACL | 2016-2018 | [GitHub](https://github.com/A2Zadeh/CMU-Multimodal-SDK) |      |
 | ![Star](https://img.shields.io/github/stars/declare-lab/MELD.svg?style=social&label=Star) <br> [**MELD Dataset**](https://github.com/declare-lab/MELD) | ACL | 2019 | [GitHub](https://github.com/declare-lab/MELD) |      |
-| ![Star](https://img.shields.io/github/stars/usc-sail/mica-emotion-recognition.svg?style=social&label=Star) <br> [**IEMOCAP Dataset Tools**](https://github.com/usc-sail/mica-emotion-recognition) | IEEE | 2008 | [GitHub](https://github.com/usc-sail/mica-emotion-recognition) |      |
 | ![Star](https://img.shields.io/github/stars/CheyneyComputerScience/CREMA-D.svg?style=social&label=Star) <br> [**CREMA-D Dataset**](https://github.com/CheyneyComputerScience/CREMA-D) | ICMI | 2014 | [GitHub](https://github.com/CheyneyComputerScience/CREMA-D) |      |
-| ![Star](https://img.shields.io/github/stars/ravdessDL/RAVDESS.svg?style=social&label=Star) <br> [**RAVDESS Dataset**](https://github.com/ravdessDL/RAVDESS) | PLoS ONE | 2018 | [GitHub](https://github.com/ravdessDL/RAVDESS) | [Demo](https://zenodo.org/record/1188976) |
 | ![Star](https://img.shields.io/github/stars/SEWA-Recognition-Challenge/SEWA-Dataset.svg?style=social&label=Star) <br> [**SEWA Dataset**](https://github.com/SEWA-Recognition-Challenge/SEWA-Dataset) | IEEE | 2019 | [GitHub](https://github.com/SEWA-Recognition-Challenge/SEWA-Dataset) |      |
 | ![Star](https://img.shields.io/github/stars/amigoselab/AMIGOS.svg?style=social&label=Star) <br> [**AMIGOS Dataset**](https://github.com/amigoselab/AMIGOS) | IEEE | 2018 | [GitHub](https://github.com/amigoselab/AMIGOS) |      |
 | ![Star](https://img.shields.io/github/stars/aff-wild/aff-wild2.svg?style=social&label=Star) <br> [**Aff-Wild2 Dataset**](https://github.com/aff-wild/aff-wild2) | CVPR | 2019 | [GitHub](https://github.com/aff-wild/aff-wild2) |      |
-| ![Star](https://img.shields.io/github/stars/EvelynFan/AWESOME-Feature-Extraction.svg?style=social&label=Star) <br> [**Multi-modal Feature Extraction**](https://github.com/EvelynFan/AWESOME-Feature-Extraction) | ACM MM | 2021 | [GitHub](https://github.com/EvelynFan/AWESOME-Feature-Extraction) |      |
-| ![Star](https://img.shields.io/github/stars/PatrickLib/emotional_datasets_resources.svg?style=social&label=Star) <br> [**Emotion Datasets Resources**](https://github.com/PatrickLib/emotional_datasets_resources) | - | 2022 | [GitHub](https://github.com/PatrickLib/emotional_datasets_resources) |      |
+
 
 
 
