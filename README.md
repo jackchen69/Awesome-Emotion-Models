@@ -66,11 +66,12 @@ This is the first work to comprehensive review of recent advancements in both un
 ## Uni-modal Emotion Recognition
 
 ### Facial Emotion Recognition
-|  Title  |   Venue  |   Date   |   Code   |   Demo   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency**](https://arxiv.org/pdf/2508.18265) <br> | arXiv | 2025-08-27 | [Github](https://github.com/OpenGVLab/InternVL) | [Demo](https://chat.intern-ai.org.cn/) |
-| **MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone** | - | 2025-08-26 | [Github](https://github.com/OpenBMB/MiniCPM-o) | [Demo](http://101.126.42.235:30910/) |
-| ![Star](https://img.shields.io/github/stars/yfzhang114/Thyme.svg?style=social&label=Star) <br> [**Thyme: Think Beyond Images**](https://arxiv.org/pdf/2508.11630) <br> | arXiv | 2025-08-18 | [Github](https://github.com/yfzhang114/Thyme) | [Demo](https://thyme-vl.github.io/) |
+| **Title**                                                                                                                                                                                                                            | **Venue** |  **Date**  |                                 **Code**                                 |                       **Demo**                       |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :--------: | :----------------------------------------------------------------------: | :--------------------------------------------------: |
+| ![Star](https://img.shields.io/github/stars/priya-dwivedi/face_and_emotion_detection.svg?style=social\&label=Star) <br> [**Facial Emotion Recognition using CNN**](https://github.com/priya-dwivedi/face_and_emotion_detection) <br> |   GitHub  | 2023-09-11 |   [Github](https://github.com/priya-dwivedi/face_and_emotion_detection)  |                           -                          |
+| ![Star](https://img.shields.io/github/stars/jianjliu/Fer2013-CNN.svg?style=social\&label=Star) <br> [**FER-2013 Facial Emotion Recognition**](https://github.com/jianjliu/Fer2013-CNN) <br>                                          |   GitHub  | 2023-06-14 |             [Github](https://github.com/jianjliu/Fer2013-CNN)            | [Demo](https://github.com/jianjliu/Fer2013-CNN#demo) |
+| [**Emotion Recognition on Video Frames**](https://arxiv.org/abs/2106.04649) <br>                                                                                                                                                     |   arXiv   | 2021-06-12 | [Github](https://github.com/yangsenius/Emotion-Recognition-Video-Frames) |  [Demo](https://www.youtube.com/watch?v=OFL7qVPRYVw) |
+
 
 ### Speech Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
