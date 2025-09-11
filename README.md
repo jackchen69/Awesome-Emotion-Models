@@ -38,7 +38,7 @@ A representative evaluation benchmark for Emo. :sparkles:
 **[Paper](https://arxiv.org/pdf/2405.20064)** | **[GitHub](https://github.com/MingjieChen/ERC-speechbrain)**
 
 🔥🔥🔥 **Uncertain Multimodal Intention and Emotion Understanding in the Wild**  
-**[Paper]([https://arx20064iv.org/pdf/2405](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Uncertain_Multimodal_Intention_and_Emotion_Understanding_in_the_Wild_CVPR_2025_paper.pdf).)** | **[GitHub](https://github.com/yan9qu/CVPR25-MINE)**
+**[Paper](https://ieeexplore.ieee.org/document/11092537)** | **[GitHub](https://github.com/yan9qu/CVPR25-MINE)**
 
 🔥🔥🔥 **Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective**  
 **[Paper](https://arxiv.org/pdf/2409.07388)** | **[GitHub](https://github.com/LeMei/Multimodal-Affective-Computing-Survey)**   
