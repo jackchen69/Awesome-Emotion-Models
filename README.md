@@ -82,11 +82,9 @@ This is the first work to comprehensive review of recent advancements in both un
 ### Text Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [Emotion-Detection-in-Text](https://github.com/SannketNikam/Emotion-Detection-in-Text)                                                           | SannketNikam | 2025-08-15 | [Demo](https://emotion-detection-in-text.streamlit.app) |
-| [Emotion\_Detection\_from\_Text\_using\_Machine\_Learning](https://github.com/rejonehridoy/Emotion_Detection_from_Text_using_Machine_Learning)   | rejonehridoy | 2025-08-12 | -                                                       |
-| [Text-Emotion-Recognition](https://github.com/EslamFouadd/Text-Emotion-Recognition)                                                              | EslamFouadd  | 2025-08-10 | -                                                       |
-| [Emotion-Detection-of-text-using-LSTM-Internship-Project](https://github.com/abhi227070/Emotion-Detection-of-text-using-LSTM-Internship-Project) | abhi227070   | 2025-08-08 | -                                                       |
-| [Emotion-Detection-Using-Text](https://github.com/ninadpatil09/Emotion-Detection-Using-Text)                                                     | ninadpatil09 | 2025-08-06 | -                                                       |
+| ![Star](https://img.shields.io/github/stars/SannketNikam/Emotion-Detection-in-Text.svg?style=social\&label=Star) <br> [**Emotion-Detection-in-Text**](https://github.com/SannketNikam/Emotion-Detection-in-Text)                                                                                       | SannketNikam | 2025-08-15 | [Demo](https://emotion-detection-in-text.streamlit.app) |      |
+| ![Star](https://img.shields.io/github/stars/rejonehridoy/Emotion_Detection_from_Text_using_Machine_Learning.svg?style=social\&label=Star) <br> [**Emotion\_Detection\_from\_Text\_using\_Machine\_Learning**](https://github.com/rejonehridoy/Emotion_Detection_from_Text_using_Machine_Learning)      | rejonehridoy | 2025-08-12 |                            -                            |      |
+
 
 ## Multi-modal Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
