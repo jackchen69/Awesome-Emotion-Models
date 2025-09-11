@@ -76,8 +76,7 @@ This is the first work to comprehensive review of recent advancements in both un
 ### Speech Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/zyangma/emotion2vec.svg?style=social\&label=Star) <br> [**emotion2vec: Self-Supervised Pre-Training for Speech Emotion Representation**](https://github.com/zyangma/emotion2vec)                                               |  arXiv | 2023-06-10 |        [Github](https://github.com/zyangma/emotion2vec)        |   -  |
-
+| ![Star](https://img.shields.io/github/stars/ddlBoJack/emotion2vec.svg?style=social\&label=Star) <br> [**emotion2vec: Self-Supervised Pre-Training for Speech Emotion Representation**](https://github.com/ddlBoJack/emotion2vec)                                           |  arXiv | 2023-06-10 |       [Github](https://github.com/ddlBoJack/emotion2vec)       |   -  |
 
 ### Text Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
