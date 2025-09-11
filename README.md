@@ -76,16 +76,13 @@ This is the first work to comprehensive review of recent advancements in both un
 ### Speech Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Introducing GPT-5**](https://openai.com/index/introducing-gpt-5/) | OpenAI | 2025-08-07 | - | - |
-| ![Star](https://img.shields.io/github/stars/rednote-hilab/dots.vlm1.svg?style=social&label=Star) <br> [**dots.vlm1**](https://github.com/rednote-hilab/dots.vlm1) <br> | rednote-hilab | 2025-08-06 | [Github](https://github.com/rednote-hilab/dots.vlm1) | [Demo](https://huggingface.co/spaces/rednote-hilab/dots-vlm1-demo) |
-| ![Star](https://img.shields.io/github/stars/THUDM/GLM-4.1V-Thinking.svg?style=social&label=Star) <br> [**Step3: Cost-Effective Multimodal Intelligence**](https://stepfun.ai/research/step3) <br> | StepFun | 2025-07-31 | [Github](https://github.com/stepfun-ai/Step3) | [Demo](https://stepfun.com/) |
+| [**Speech Emotion Recognition using CNN**](https://github.com/jianjliu/SpeechEmotionRecognition)                                                                        |   GitHub  | 2023-04-20 | [Github](https://github.com/jianjliu/SpeechEmotionRecognition) |                                  -                                 
+
 
 ### Text Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/THUDM/GLM-4.1V-Thinking.svg?style=social&label=Star) <br> [**GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning**](https://arxiv.org/pdf/2507.01006) <br> | arXiv | 2025-07-02 | [Github](https://github.com/THUDM/GLM-4.1V-Thinking) | [Demo](https://huggingface.co/spaces/THUDM/GLM-4.1V-9B-Thinking-API-Demo) |
-| ![Star](https://img.shields.io/github/stars/lxtGH/DenseWorld-1M.svg?style=social&label=Star) <br> [**DenseWorld-1M: Towards Detail**]()
-
+| ![Star](https://img.shields.io/github/stars/joeddav/bertology-emo.svg?style=social\&label=Star) <br> [**BERT for Emotion Classification in Text**](https://github.com/joeddav/bertology-emo) <br>                                                  |   GitHub  | 2023-06-30 |  [Github](https://github.com/joeddav/bertology-emo)  |      [Demo](https://huggingface.co/spaces/joeddav/bertology-emo-demo)     |
 
 ## Multi-modal Emotion Recognition
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
