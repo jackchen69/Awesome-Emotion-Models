@@ -1,12 +1,12 @@
 # Awesome-Emotion-Models
 
 <p align="center">
-    <img src="./images/emotion.gif" width="20%" height="20%">
+    <img src="./images/emotion.gif" width="30%" height="30%">
 </p>
 
-## Our MLLM works
+## Our Emo works
 
-🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
+🔥🔥🔥 **A Survey on Uni-modal and Multi-modal Models**  
 **[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)** | :black_nib: **[Citation](./images/bib_survey.txt)** | **[💬 WeChat (MLLM微信交流群，欢迎加入)](./images/wechat-group.jpg)**
 
 The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sparkles:  
@@ -15,7 +15,7 @@ The first comprehensive survey for Multimodal Large Language Models (MLLMs). :sp
 
 🔥🔥🔥 **EmoBench-M: Benchmarking Emotional Intelligence for Multimodal Large Language Models**  
 <p align="center">
-    <img src="./images/vita-1.5.jpg" width="60%" height="60%">
+    <img src="./images/EmoBench-M.png" width="60%" height="60%">
 </p>
 
 <font size=7><div align='center' > [[📽 EmoBench-M Demo Show! Here We Go! 🔥]([https://youtu.be/tyi6SVFT5mM?si=fkMQCrwa5fVnmEe7](https://www.youtube.com/watch?v=jfbnKI9Zjb0))] </div></font>  
@@ -30,14 +30,20 @@ You can experience our [Basic Demo](https://github.com/Robin-WZQ/multimodal-emot
 
 
 
-A representative evaluation benchmark for MLLMs. :sparkles:  
+A representative evaluation benchmark for Emo. :sparkles:  
 
 ---
 
-🔥🔥🔥 **Woodpecker: Hallucination Correction for Multimodal Large Language Models**  
-**[Paper](https://arxiv.org/pdf/2310.16045)** | **[GitHub](https://github.com/BradyFU/Woodpecker)**
+🔥🔥🔥 **1st Place Solution to Odyssey Emotion Recognition Challenge Task1: Tackling Class Imbalance Problem**  
+**[Paper](https://arxiv.org/pdf/2405.20064)** | **[GitHub](https://github.com/MingjieChen/ERC-speechbrain)**
 
-This is the first work to correct hallucination in multimodal large language models. :sparkles:  
+🔥🔥🔥 **Uncertain Multimodal Intention and Emotion Understanding in the Wild**  
+**[Paper]([https://arx20064iv.org/pdf/2405](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Uncertain_Multimodal_Intention_and_Emotion_Understanding_in_the_Wild_CVPR_2025_paper.pdf).)** | **[GitHub](https://github.com/yan9qu/CVPR25-MINE)**
+
+🔥🔥🔥 **Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective**  
+**[Paper](https://arxiv.org/pdf/2409.07388)** | **[GitHub](https://github.com/LeMei/Multimodal-Affective-Computing-Survey)**   
+
+This is the first work to comprehensive review of recent advancements in both uni-modal and multi-modal emotion recognition systems. :sparkles:  
 
 
 ---
