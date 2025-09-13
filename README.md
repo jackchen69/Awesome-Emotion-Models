@@ -40,8 +40,14 @@ A representative evaluation benchmark for Emo. :sparkles:
 🔥🔥🔥 **Uncertain Multimodal Intention and Emotion Understanding in the Wild**  
 **[Paper](https://ieeexplore.ieee.org/document/11092537)** | **[GitHub](https://github.com/yan9qu/CVPR25-MINE)**
 
+🔥🔥🔥 **MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark**  
+**[Paper](https://arxiv.org/abs/2506.04779)** | **[GitHub](https://github.com/dingdongwang/mmsu_bench)**
+
 🔥🔥🔥 **Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective**  
 **[Paper](https://arxiv.org/pdf/2409.07388)** | **[GitHub](https://github.com/LeMei/Multimodal-Affective-Computing-Survey)**   
+
+🔥🔥🔥 **HiCMAE: Hierarchical Contrastive Masked Autoencoder for Self-Supervised Audio-Visual Emotion Recognition**  
+**[Paper](https://arxiv.org/pdf/2401.05698)** | **[GitHub](https://github.com/sunlicai/HiCMAE)**   
 
 This is the first work to comprehensive review of recent advancements in both uni-modal and multi-modal emotion recognition systems. :sparkles:  
 
