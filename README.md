@@ -49,6 +49,9 @@ A representative evaluation benchmark for Emo. :sparkles:
 🔥🔥🔥 **HiCMAE: Hierarchical Contrastive Masked Autoencoder for Self-Supervised Audio-Visual Emotion Recognition**  
 **[Paper](https://arxiv.org/pdf/2401.05698)** | **[GitHub](https://github.com/sunlicai/HiCMAE)**   
 
+🔥🔥🔥 **A scoping review of large language models for generative tasks in mental health care**  
+**[Paper](https://www.nature.com/articles/s41746-025-01611-4)**   
+
 This is the first work to comprehensive review of recent advancements in both uni-modal and multi-modal emotion recognition systems. :sparkles:  
 
 
