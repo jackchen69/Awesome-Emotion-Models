@@ -43,6 +43,9 @@ A representative evaluation benchmark for Emo. :sparkles:
 🔥🔥🔥 **MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark**  
 **[Paper](https://arxiv.org/abs/2506.04779)** | **[GitHub](https://github.com/dingdongwang/mmsu_bench)**
 
+🔥🔥🔥 **emotion2vec: Self-Supervised Pre-Training for Speech Emotion Representation**  
+**[Paper](https://github.com/ddlBoJack/emotion2vec)**   
+
 🔥🔥🔥 **Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective**  
 **[Paper](https://arxiv.org/pdf/2409.07388)** | **[GitHub](https://github.com/LeMei/Multimodal-Affective-Computing-Survey)**   
 
