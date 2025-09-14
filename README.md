@@ -34,7 +34,7 @@ A representative evaluation benchmark for Emo. :sparkles:
 
 ---
 🔥🔥🔥 **MERBench: A Unified Evaluation Benchmark for Multimodal Emotion Recognition**  
-**[Paper](https://arxiv.org/pdf/2401.03429)** | **[GitHub](https://github.com/zeroQiaoba/MERTools)** （NPJ| Digital Medicine）
+**[Paper](https://arxiv.org/pdf/2401.03429)** | **[GitHub](https://github.com/zeroQiaoba/MERTools)** 
 
 🔥🔥🔥 **emotion2vec: Self-Supervised Pre-Training for Speech Emotion Representation**  
 **[Paper](https://github.com/ddlBoJack/emotion2vec)**   | **[GitHub](https://github.com/ddlBoJack/emotion2vec)**
