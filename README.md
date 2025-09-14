@@ -60,8 +60,8 @@ A representative evaluation benchmark for Emo. :sparkles:
 🔥🔥🔥 **Improved End-to-End Speech Emotion Recognition Using Self Attention Mechanism and Multitask Learning**  
 **[Paper](https://www.isca-archive.org/interspeech_2019/li19n_interspeech.pdf)** 
 
-🔥🔥🔥 **A scoping review of large language models for generative tasks in mental health care**  
-**[Paper](https://www.nature.com/articles/s41746-025-01611-4)**   
+🔥🔥🔥 **A Scoping Review of Large Language Models for Generative Tasks in Mental Health Care**  
+**[Paper](https://www.nature.com/articles/s41746-025-01611-4)**   （NPJ| Digital Medicine）
 
 This is the first work to comprehensive review of recent advancements in both uni-modal and multi-modal emotion recognition systems. :sparkles:  
 
