@@ -37,14 +37,14 @@ A representative evaluation benchmark for Emo. :sparkles:
 🔥🔥🔥 **1st Place Solution to Odyssey Emotion Recognition Challenge Task1: Tackling Class Imbalance Problem**  
 **[Paper](https://arxiv.org/pdf/2405.20064)** | **[GitHub](https://github.com/MingjieChen/ERC-speechbrain)**
 
+🔥🔥🔥 **emotion2vec: Self-Supervised Pre-Training for Speech Emotion Representation**  
+**[Paper](https://github.com/ddlBoJack/emotion2vec)**   | **[GitHub](https://github.com/ddlBoJack/emotion2vec)**
+
 🔥🔥🔥 **Uncertain Multimodal Intention and Emotion Understanding in the Wild**  
 **[Paper](https://ieeexplore.ieee.org/document/11092537)** | **[GitHub](https://github.com/yan9qu/CVPR25-MINE)**
 
 🔥🔥🔥 **MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark**  
 **[Paper](https://arxiv.org/abs/2506.04779)** | **[GitHub](https://github.com/dingdongwang/mmsu_bench)**
-
-🔥🔥🔥 **emotion2vec: Self-Supervised Pre-Training for Speech Emotion Representation**  
-**[Paper](https://github.com/ddlBoJack/emotion2vec)**   | **[GitHub](https://github.com/ddlBoJack/emotion2vec)**
 
 🔥🔥🔥 **Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective**  
 **[Paper](https://arxiv.org/pdf/2409.07388)** | **[GitHub](https://github.com/LeMei/Multimodal-Affective-Computing-Survey)**   
