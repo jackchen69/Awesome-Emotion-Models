@@ -33,9 +33,8 @@ You can experience our [Basic Demo](https://github.com/Robin-WZQ/multimodal-emot
 A representative evaluation benchmark for Emo. :sparkles:  
 
 ---
-
-🔥🔥🔥 **1st Place Solution to Odyssey Emotion Recognition Challenge Task1: Tackling Class Imbalance Problem**  
-**[Paper](https://arxiv.org/pdf/2405.20064)** | **[GitHub](https://github.com/MingjieChen/ERC-speechbrain)**
+🔥🔥🔥 **MERBench: A Unified Evaluation Benchmark for Multimodal Emotion Recognition**  
+**[Paper](https://arxiv.org/pdf/2401.03429)** | **[GitHub](https://github.com/zeroQiaoba/MERTools)**
 
 🔥🔥🔥 **emotion2vec: Self-Supervised Pre-Training for Speech Emotion Representation**  
 **[Paper](https://github.com/ddlBoJack/emotion2vec)**   | **[GitHub](https://github.com/ddlBoJack/emotion2vec)**
@@ -46,15 +45,14 @@ A representative evaluation benchmark for Emo. :sparkles:
 🔥🔥🔥 **MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark**  
 **[Paper](https://arxiv.org/abs/2506.04779)** | **[GitHub](https://github.com/dingdongwang/mmsu_bench)**
 
+🔥🔥🔥 **1st Place Solution to Odyssey Emotion Recognition Challenge Task1: Tackling Class Imbalance Problem**  
+**[Paper](https://arxiv.org/pdf/2405.20064)** | **[GitHub](https://github.com/MingjieChen/ERC-speechbrain)**
+
 🔥🔥🔥 **Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective**  
 **[Paper](https://arxiv.org/pdf/2409.07388)** | **[GitHub](https://github.com/LeMei/Multimodal-Affective-Computing-Survey)**   
 
 🔥🔥🔥 **HiCMAE: Hierarchical Contrastive Masked Autoencoder for Self-Supervised Audio-Visual Emotion Recognition**  
 **[Paper](https://arxiv.org/pdf/2401.05698)** | **[GitHub](https://github.com/sunlicai/HiCMAE)**   
-
-
-🔥🔥🔥 **MERBench: A Unified Evaluation Benchmark for Multimodal Emotion Recognition**  
-**[Paper](https://arxiv.org/pdf/2401.03429)** | **[GitHub](https://github.com/zeroQiaoba/MERTools)**
 
 🔥🔥🔥 **Spectral Representation of Behaviour Primitives for Depression Analysis**  
 **[Paper](https://www.nature.com/articles/s41746-025-01611-4)**   | **[GitHub](https://github.com/SSYSteve/Human-behaviour-based-depression-analysis-using-hand-crafted-statistics-and-deep-learned)**  (IEEE Transactions on Affective Computing BEST PAPER RUNNER UP)
