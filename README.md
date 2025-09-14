@@ -55,7 +55,7 @@ A representative evaluation benchmark for Emo. :sparkles:
 **[Paper](https://arxiv.org/pdf/2401.05698)** | **[GitHub](https://github.com/sunlicai/HiCMAE)**   
 
 🔥🔥🔥 **Spectral Representation of Behaviour Primitives for Depression Analysis**  
-**[Paper](https://www.nature.com/articles/s41746-025-01611-4)**   | **[GitHub](https://github.com/SSYSteve/Human-behaviour-based-depression-analysis-using-hand-crafted-statistics-and-deep-learned)**  (IEEE Transactions on Affective Computing BEST PAPER RUNNER UP)
+**[Paper](https://www.nature.com/articles/s41746-025-01611-4)**   | **[GitHub](https://github.com/SSYSteve/Human-behaviour-based-depression-analysis-using-hand-crafted-statistics-and-deep-learned)**  (IEEE Transactions on Affective Computing, BEST PAPER RUNNER UP)
 
 🔥🔥🔥 **Improved End-to-End Speech Emotion Recognition Using Self Attention Mechanism and Multitask Learning**  
 **[Paper](https://www.isca-archive.org/interspeech_2019/li19n_interspeech.pdf)** 
