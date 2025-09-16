@@ -46,7 +46,7 @@ A representative evaluation benchmark for Emo. :sparkles:
 **[Paper](https://arxiv.org/abs/2506.04779)** | **[GitHub](https://github.com/dingdongwang/mmsu_bench)**
 
 🔥🔥🔥 **1st Place Solution to Odyssey Emotion Recognition Challenge Task1: Tackling Class Imbalance Problem**  
-**[Paper](https://arxiv.org/pdf/2405.20064)** | **[GitHub](https://github.com/MingjieChen/ERC-speechbrain)**
+**[Paper](https://arxiv.org/pdf/2405.20064)** 
 
 🔥🔥🔥 **Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective**  
 **[Paper](https://arxiv.org/pdf/2409.07388)** | **[GitHub](https://github.com/LeMei/Multimodal-Affective-Computing-Survey)**   
