@@ -81,6 +81,7 @@ This is the first work to comprehensive review of recent advancements in both un
 
 ---
 
+## Book
 # Awesome Papers
 
 ## Uni-modal Emotion Recognition
@@ -117,6 +118,4 @@ This is the first work to comprehensive review of recent advancements in both un
 | ![Star](https://img.shields.io/github/stars/declare-lab/MELD.svg?style=social&label=Star) <br> [**MELD Dataset**](https://github.com/declare-lab/MELD) | ACL | 2019 | [GitHub](https://github.com/declare-lab/MELD) |      |
 | ![Star](https://img.shields.io/github/stars/CheyneyComputerScience/CREMA-D.svg?style=social&label=Star) <br> [**CREMA-D Dataset**](https://github.com/CheyneyComputerScience/CREMA-D) | ICMI | 2014 | [GitHub](https://github.com/CheyneyComputerScience/CREMA-D) |      |
 
-
-## Book
 
