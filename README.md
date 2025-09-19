@@ -45,6 +45,9 @@ A representative evaluation benchmark for Emo. :sparkles:
 🔥🔥🔥 **MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark**  
 **[Paper](https://arxiv.org/abs/2506.04779)** | **[GitHub](https://github.com/dingdongwang/mmsu_bench)**
 
+🔥🔥🔥 **Belief Mismatch Coefficient (BMC): A Novel Interpretable Measure of Prediction Accuracy for Ambiguous Emotion States**  
+**[Paper](https://ieeexplore.ieee.org/document/10388210)** | （ACII 2023 Best Paper）
+
 🔥🔥🔥 **1st Place Solution to Odyssey Emotion Recognition Challenge Task1: Tackling Class Imbalance Problem**  
 **[Paper](https://arxiv.org/pdf/2405.20064)** 
 
