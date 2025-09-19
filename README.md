@@ -49,7 +49,7 @@ A representative evaluation benchmark for Emo. :sparkles:
 **[Paper](https://ieeexplore.ieee.org/document/10388210)** （ACII 2023 Best Paper）
 
 🔥🔥🔥 **1st Place Solution to Odyssey Emotion Recognition Challenge Task1: Tackling Class Imbalance Problem**  
-**[Paper](https://arxiv.org/pdf/2405.20064)** 
+**[Paper](https://arxiv.org/pdf/2405.20064)** （1st place Odyssey 2024 Emotion Recognition Challenge）
 
 🔥🔥🔥 **Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective**  
 **[Paper](https://arxiv.org/pdf/2409.07388)** | **[GitHub](https://github.com/LeMei/Multimodal-Affective-Computing-Survey)**   
