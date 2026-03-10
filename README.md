@@ -72,6 +72,10 @@ A representative evaluation benchmark for multimodal emotion recognition. All co
 ## 📑 Table of Contents
 
 - [Survey Overview](#-our-survey)
+- - [Benchmark Comparison](#-benchmark-comparison)
+- - [Awesome Datasets](#-awesome-datasets)
+  - [Uni-modal Datasets](#uni-modal-datasets)
+  - [Multi-modal Datasets](#multi-modal-datasets)
 - [Awesome Papers](#-awesome-papers)
   - [Uni-modal Emotion Recognition](#uni-modal-emotion-recognition)
     - [Facial Emotion Recognition (FER)](#facial-emotion-recognition)
@@ -82,13 +86,45 @@ A representative evaluation benchmark for multimodal emotion recognition. All co
     - [Fusion Granularity](#fusion-granularity)
     - [Model Architectures](#model-architectures)
     - [Large Language Model-Based MER](#large-language-model-based-mer)
-- [Awesome Datasets](#-awesome-datasets)
-  - [Uni-modal Datasets](#uni-modal-datasets)
-  - [Multi-modal Datasets](#multi-modal-datasets)
-- [Benchmark Comparison](#-benchmark-comparison)
 - [Citation](#-citation)
 
 ---
+
+
+### Survey Comparison (2020–2026)
+
+> A = Audio, T = Text, V = Visual, P = Physiological
+
+| Publication | Year | Modality | Uni-modal | Multi-modal | Evaluation | Pipeline | Dataset |
+|:-----------|:----:|:--------:|:---------:|:-----------:|:----------:|:--------:|:-------:|
+| [Speech Commun](https://www.sciencedirect.com/science/article/pii/S0167639319302262) | 2020 | A | ✅ | ❌ | ✅ | ❌ | ✅ |
+| [IEEE TAFFC](https://ieeexplore.ieee.org/document/9115253) | 2020 | A | ✅ | ❌ | ❌ | ❌ | ❌ |
+| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253520303419) | 2020 | A,T,V | ❌ | ✅ | ❌ | ❌ | ✅ |
+| [Electronics](https://www.mdpi.com/2079-9292/10/21/2617) | 2021 | A,T,V | ✅ | ✅ | ❌ | ✅ | ✅ |
+| [IEEE Signal Process. Mag.](https://ieeexplore.ieee.org/document/9551056) | 2021 | A,T,V | ❌ | ✅ | ❌ | ❌ | ✅ |
+| [Information Science](https://www.sciencedirect.com/science/article/pii/S0020025522001955) | 2022 | A,T,V | ✅ | ❌ | ❌ | ❌ | ✅ |
+| [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231222005422) | 2022 | A,T,V | ❌ | ✅ | ❌ | ❌ | ✅ |
+| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253522001634) | 2022 | A,T,V | ✅ | ✅ | ❌ | ❌ | ✅ |
+| [IEEE TIM](https://ieeexplore.ieee.org/document/10032659) | 2023 | V | ✅ | ❌ | ❌ | ❌ | ✅ |
+| [Proc. IEEE](https://ieeexplore.ieee.org/document/10101534) | 2023 | V | ✅ | ❌ | ✅ | ❌ | ✅ |
+| [IEEE TAFFC](https://ieeexplore.ieee.org/document/9512417) | 2023 | T | ✅ | ❌ | ❌ | ❌ | ✅ |
+| [Speech Commun](https://www.sciencedirect.com/science/article/pii/S0167639323000365) | 2023 | A | ✅ | ❌ | ❌ | ❌ | ✅ |
+| [IEEE Access](https://ieeexplore.ieee.org/document/10149004) | 2023 | A | ✅ | ❌ | ❌ | ❌ | ✅ |
+| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253523001501) | 2023 | A,T,V | ✅ | ✅ | ❌ | ❌ | ✅ |
+| [Entropy](https://www.mdpi.com/1099-4300/25/1/172) | 2023 | A,T,V | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231223006951) | 2023 | A,T,V,P | ✅ | ✅ | ❌ | ❌ | ✅ |
+| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253523004426) | 2024 | V | ✅ | ❌ | ❌ | ❌ | ✅ |
+| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253524000617) | 2024 | A,T,V,P | ❌ | ✅ | ❌ | ❌ | ✅ |
+| [IEEE Access](https://ieeexplore.ieee.org/document/10423244) | 2024 | A,T,V | ❌ | ✅ | ❌ | ❌ | ✅ |
+| [Expert Syst. Appl.](https://www.sciencedirect.com/science/article/pii/S0957417424002641) | 2024 | A,T,V | ✅ | ✅ | ❌ | ❌ | ✅ |
+| [Expert Systems](https://onlinelibrary.wiley.com/doi/10.1111/exsy.13714) | 2025 | A,T,V | ✅ | ✅ | ❌ | ❌ | ✅ |
+| [ACM TOMM](https://dl.acm.org/doi/10.1145/3706637) | 2025 | A,T,V,P | ❌ | ✅ | ❌ | ❌ | ✅ |
+| [IEEE Access](https://ieeexplore.ieee.org/document/10870430) | 2025 | A,T,V | ✅ | ✅ | ❌ | ❌ | ✅ |
+| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253525000000) | 2026 | S | ✅ | ❌ | ✅ | ✅ | ✅ |
+| **[Ours](https://arxiv.org/pdf/2306.13549.pdf)** | **2026** | **A,T,V,P** | **✅** | **✅** | **✅** | **✅** | **✅** |
+
+---
+
 
 
 ## 📊 Awesome Datasets
@@ -153,7 +189,7 @@ A representative evaluation benchmark for multimodal emotion recognition. All co
 | **MER2025** | A, V, T | Natural | Open-vocabulary | Extended | [Paper](https://arxiv.org/abs/2501.00000) |
 
 ---
-
+## 🏆 Awesome Papers
 ## 📈 Benchmark Comparison
 
 ### Model Performance on Key Benchmarks
@@ -203,41 +239,6 @@ A representative evaluation benchmark for multimodal emotion recognition. All co
 
 ---
 
-### Survey Comparison (2020–2026)
-
-> A = Audio, T = Text, V = Visual, P = Physiological
-
-| Publication | Year | Modality | Uni-modal | Multi-modal | Evaluation | Pipeline | Dataset |
-|:-----------|:----:|:--------:|:---------:|:-----------:|:----------:|:--------:|:-------:|
-| [Speech Commun](https://www.sciencedirect.com/science/article/pii/S0167639319302262) | 2020 | A | ✅ | ❌ | ✅ | ❌ | ✅ |
-| [IEEE TAFFC](https://ieeexplore.ieee.org/document/9115253) | 2020 | A | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253520303419) | 2020 | A,T,V | ❌ | ✅ | ❌ | ❌ | ✅ |
-| [Electronics](https://www.mdpi.com/2079-9292/10/21/2617) | 2021 | A,T,V | ✅ | ✅ | ❌ | ✅ | ✅ |
-| [IEEE Signal Process. Mag.](https://ieeexplore.ieee.org/document/9551056) | 2021 | A,T,V | ❌ | ✅ | ❌ | ❌ | ✅ |
-| [Information Science](https://www.sciencedirect.com/science/article/pii/S0020025522001955) | 2022 | A,T,V | ✅ | ❌ | ❌ | ❌ | ✅ |
-| [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231222005422) | 2022 | A,T,V | ❌ | ✅ | ❌ | ❌ | ✅ |
-| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253522001634) | 2022 | A,T,V | ✅ | ✅ | ❌ | ❌ | ✅ |
-| [IEEE TIM](https://ieeexplore.ieee.org/document/10032659) | 2023 | V | ✅ | ❌ | ❌ | ❌ | ✅ |
-| [Proc. IEEE](https://ieeexplore.ieee.org/document/10101534) | 2023 | V | ✅ | ❌ | ✅ | ❌ | ✅ |
-| [IEEE TAFFC](https://ieeexplore.ieee.org/document/9512417) | 2023 | T | ✅ | ❌ | ❌ | ❌ | ✅ |
-| [Speech Commun](https://www.sciencedirect.com/science/article/pii/S0167639323000365) | 2023 | A | ✅ | ❌ | ❌ | ❌ | ✅ |
-| [IEEE Access](https://ieeexplore.ieee.org/document/10149004) | 2023 | A | ✅ | ❌ | ❌ | ❌ | ✅ |
-| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253523001501) | 2023 | A,T,V | ✅ | ✅ | ❌ | ❌ | ✅ |
-| [Entropy](https://www.mdpi.com/1099-4300/25/1/172) | 2023 | A,T,V | ✅ | ✅ | ✅ | ✅ | ✅ |
-| [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231223006951) | 2023 | A,T,V,P | ✅ | ✅ | ❌ | ❌ | ✅ |
-| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253523004426) | 2024 | V | ✅ | ❌ | ❌ | ❌ | ✅ |
-| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253524000617) | 2024 | A,T,V,P | ❌ | ✅ | ❌ | ❌ | ✅ |
-| [IEEE Access](https://ieeexplore.ieee.org/document/10423244) | 2024 | A,T,V | ❌ | ✅ | ❌ | ❌ | ✅ |
-| [Expert Syst. Appl.](https://www.sciencedirect.com/science/article/pii/S0957417424002641) | 2024 | A,T,V | ✅ | ✅ | ❌ | ❌ | ✅ |
-| [Expert Systems](https://onlinelibrary.wiley.com/doi/10.1111/exsy.13714) | 2025 | A,T,V | ✅ | ✅ | ❌ | ❌ | ✅ |
-| [ACM TOMM](https://dl.acm.org/doi/10.1145/3706637) | 2025 | A,T,V,P | ❌ | ✅ | ❌ | ❌ | ✅ |
-| [IEEE Access](https://ieeexplore.ieee.org/document/10870430) | 2025 | A,T,V | ✅ | ✅ | ❌ | ❌ | ✅ |
-| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253525000000) | 2026 | S | ✅ | ❌ | ✅ | ✅ | ✅ |
-| **[Ours](https://arxiv.org/pdf/2306.13549.pdf)** | **2026** | **A,T,V,P** | **✅** | **✅** | **✅** | **✅** | **✅** |
-
----
-
-## 🏆 Awesome Papers
 
 ### Uni-modal Emotion Recognition
 
