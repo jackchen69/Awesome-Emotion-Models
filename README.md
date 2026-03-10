@@ -308,51 +308,82 @@ A representative evaluation benchmark for multimodal emotion recognition. All co
 
 #### Vision Models
 
-| Model | Framework | Input | Loss | Performance | Dataset |
-|:------|:---------:|:-----:|:----:|:-----------:|:-------:|
-| C3D | 3D Conv | Video | Softmax | Acc: 59.02% | AFEW |
-| I3D | Inflated 3D | Video | Softmax | Acc: 68.90% | GreSti |
-| SlowFast | Dual CNN | Video | Softmax | WAR: 49.34% | FERV39K |
-| ViT-B/16/SAM | Transformer | Video | Cross-Entropy | Acc: 52.42% | FER-2013 |
-| DTL-I-ResNet18 | 3D ResNet | Video | Softmax | Acc: 83.0% | FER2013 |
-| D2SP | Dual Purification | Video | Cross-Entropy | WAR: 50.5% | FERV39k |
+| Model | Framework | Input | Loss | Performance | Dataset | Paper |
+|:------|:---------:|:-----:|:----:|:-----------:|:-------:|:-----:|
+| [C3D](https://arxiv.org/abs/1412.0767) | 3D Conv | Video | Softmax | Acc: 59.02% | AFEW | [Fan et al., 2016](https://dl.acm.org/doi/10.1145/2964284.2967212) |
+| [I3D](https://arxiv.org/abs/1705.07750) | Inflated 3D | Video | Softmax | Acc: 68.90% | GreSti | [Ghaleb et al., 2021](https://ieeexplore.ieee.org/document/9320580) |
+| [SlowFast](https://arxiv.org/abs/1812.03982) | Dual CNN | Video | Softmax | WAR: 49.34% | FERV39K | [Neshov et al., 2024](https://arxiv.org/abs/2408.00000) |
+| [ViT-B/16+SAM](https://arxiv.org/abs/2103.15691) | Transformer | Video | Cross-Entropy | Acc: 52.42% | FER-2013 | [Arnab et al., 2021](https://arxiv.org/abs/2103.15691) |
+| [DTL-I-ResNet18](https://arxiv.org/abs/2308.10026) | 3D ResNet | Video | Softmax | Acc: 83.0% | FER2013 | [Helaly et al., 2023](https://arxiv.org/abs/2308.10026) |
+| [ESTLNet](https://dl.acm.org/doi/10.1145/3474085.3475419) | CNN-LSTM | Video | Cross-Entropy | Acc: 53.79% | AFEW | [Wang et al., 2022](https://dl.acm.org/doi/10.1145/3474085.3475419) |
+| [D2SP](https://arxiv.org/abs/2406.03337) | Dual Purification | Video | Cross-Entropy | WAR: 50.5% | FERV39k | [CVPR 2025](https://arxiv.org/abs/2406.03337) |
 
 #### Audio Models
 
-| Model | Framework | Input | Loss | Performance | Dataset |
-|:------|:---------:|:-----:|:----:|:-----------:|:-------:|
-| HuBERT | CNN+Transformer | Raw audio | Contrastive | WA: 79.58% | IEMOCAP |
-| Wav2Vec | 1D CNN | Raw audio | Contrastive | WA: 77.00% | IEMOCAP |
-| emotion2vec | Online Distillation | Raw audio | Utterance+Frame | WA: 85.0% | RAVDESS |
-| SL-GEmo-CLAP | CNN+Transformer | WavLM-large | KL Loss | WAR: 81.43% | IEMOCAP |
-| WavLM | CNN+Transformer | Raw audio | Discriminative | Macro-F1: 33.6% | IEMOCAP |
-| Audio-Transformer | Transformer | Spectrogram | Cross-Entropy | Acc: 75.42% | EMO-DB |
+| Model | Framework | Input | Loss | Performance | Dataset | Paper |
+|:------|:---------:|:-----:|:----:|:-----------:|:-------:|:-----:|
+| [HuBERT](https://arxiv.org/abs/2106.07447) | CNN+Transformer | Raw audio | Contrastive | WA: 79.58% | IEMOCAP | [Wang et al., 2021](https://arxiv.org/abs/2110.11309) |
+| [Wav2Vec](https://arxiv.org/abs/1904.05862) | 1D CNN | Raw audio | Contrastive | WA: 77.00% | IEMOCAP | [Wang et al., 2021](https://arxiv.org/abs/2110.11309) |
+| [emotion2vec](https://arxiv.org/abs/2312.15185) | Online Distillation | Raw audio | Utterance+Frame | WA: 85.0% | RAVDESS | [Ma et al., 2024](https://arxiv.org/abs/2312.15185) |
+| [SL-GEmo-CLAP](https://arxiv.org/abs/2406.05512) | CNN+Transformer | WavLM-large | KL Loss | WAR: 81.43% | IEMOCAP | [Pan et al., 2024](https://arxiv.org/abs/2406.05512) |
+| [WavLM](https://arxiv.org/abs/2110.13900) | CNN+Transformer | Raw audio | Discriminative | Macro-F1: 33.6% | IEMOCAP | [Wu et al., 2024](https://arxiv.org/abs/2401.04152) |
+| [Mockingjay](https://arxiv.org/abs/1910.12638) | NPC | Raw audio | L1/MSE | Acc: 50.28% | IEMOCAP | [Liu et al., 2024](https://arxiv.org/abs/2404.00000) |
+| [DeCoAR](https://arxiv.org/abs/1907.11463) | SVM | Mel FBANK | L1/MSE | UAR: 71.93% | IEMOCAP | [Stanea et al., 2023](https://arxiv.org/abs/2309.00000) |
+| [Vesper](https://arxiv.org/abs/2307.10757) | CNN+Transformer | Raw audio | MSE | WA: 54.2% | IEMOCAP | [Chen et al., 2024](https://arxiv.org/abs/2307.10757) |
+| [Audio-Transformer](https://dl.acm.org/doi/abs/10.1145/3571600.3571627) | Transformer | Spectrogram | Cross-Entropy | Acc: 75.42% | EMO-DB | [Bayraktar et al., 2023](https://dl.acm.org/doi/abs/10.1145/3571600.3571627) |
+| [DTNet](https://arxiv.org/abs/2309.04962) | CNN+Transformer | Raw audio | Cross-Entropy | UA: 74.8% | IEMOCAP | [Yuan et al., 2024](https://arxiv.org/abs/2309.04962) |
 
 #### Text Models
 
-| Model | Framework | Input | Loss | Performance | Dataset |
-|:------|:---------:|:-----:|:----:|:-----------:|:-------:|
-| BERT | Transformer | Text token | MLM+NSP | Acc: 70.09% | ISEAR |
-| RoBERTa | Transformer | Text token | Cross-Entropy | Acc: 74.31% | ISEAR |
-| XLNet | Transformer | Permuted tokens | Permuted LM | Acc: 72.99% | ISEAR |
-| ALBERT | Transformer | Text token | Focal+KL | Acc: 73.86% | ISEAR |
-| DeBERTa-v3 | Transformer | Text token | Cross-Entropy | F1: 66.2% | WRIME |
-| GloVe | Co-occurrence | Text tokens | Weighted LS | Acc: 95.09% | Twitter |
-
-### Survey Comparison (2020–2026)
-
-| Publication | Year | Modality | Uni-modal | Multi-modal | Evaluation | Pipeline | Dataset |
-|:-----------|:----:|:--------:|:---------:|:-----------:|:----------:|:--------:|:-------:|
-| Speech Commun | 2020 | A | ✅ | ❌ | ✅ | ❌ | ✅ |
-| Information Fusion | 2020 | A,T,V | ❌ | ✅ | ❌ | ❌ | ✅ |
-| Information Fusion | 2023 | A,T,V | ✅ | ✅ | ❌ | ❌ | ✅ |
-| Entropy | 2023 | A,T,V | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Information Fusion | 2024 | A,T,V,P | ❌ | ✅ | ❌ | ❌ | ✅ |
-| **Ours** | **2026** | **A,T,V,P** | **✅** | **✅** | **✅** | **✅** | **✅** |
+| Model | Framework | Input | Loss | Performance | Dataset | Paper |
+|:------|:---------:|:-----:|:----:|:-----------:|:-------:|:-----:|
+| [BERT](https://arxiv.org/abs/1810.04805) | Transformer | Text token | MLM+NSP | Acc: 70.09% | ISEAR | [Adoma et al., 2020](https://ieeexplore.ieee.org/document/9174302) |
+| [RoBERTa](https://arxiv.org/abs/1907.11692) | Transformer | Text token | Cross-Entropy | Acc: 74.31% | ISEAR | [Adoma et al., 2020](https://ieeexplore.ieee.org/document/9174302) |
+| [XLNet](https://arxiv.org/abs/1906.08237) | Transformer | Permuted tokens | Permuted LM | Acc: 72.99% | ISEAR | [Adoma et al., 2020](https://ieeexplore.ieee.org/document/9174302) |
+| [ALBERT](https://arxiv.org/abs/1909.11942) | Transformer | Text token | Focal+KL | Acc: 73.86% | ISEAR | [Adoma et al., 2020](https://ieeexplore.ieee.org/document/9174302) |
+| [DistilBERT](https://arxiv.org/abs/1910.01108) | Transformer | Text token | MLM+Distillation | Acc: 66.93% | ISEAR | [Adoma et al., 2020](https://ieeexplore.ieee.org/document/9174302) |
+| [DeBERTa-v3](https://arxiv.org/abs/2111.09543) | Transformer | Text token | Cross-Entropy | F1: 66.2% | WRIME | [Takenaka et al., 2025](https://arxiv.org/abs/2504.00000) |
+| [ChatGPT-4o](https://openai.com/index/hello-gpt-4o/) | Transformer | Text token | Prompt-based | F1: 52.7% | WRIME | [Atitienei et al., 2024](https://arxiv.org/abs/2410.00000) |
+| [GloVe](https://nlp.stanford.edu/pubs/glove.pdf) | Co-occurrence matrix | Text tokens | Weighted LS | Acc: 95.09% | Twitter | [Gupta et al., 2021](https://arxiv.org/abs/2106.00000) |
+| [Word2Vec](https://arxiv.org/abs/1301.3781) | CBOW | Text tokens | Hierarchical Softmax | Macro-F1: 73.21% | Tweets | [Tang et al., 2014](https://aclanthology.org/P14-2052/) |
+| [ELMo](https://arxiv.org/abs/1802.05365) | BiLSTM | Context. vectors | Cross-Entropy | Acc: 88.91% | Wikipedia | [Yang et al., 2021](https://arxiv.org/abs/2109.00000) |
+| [COMET](https://arxiv.org/abs/1906.05317) | Transformer | Commonsense triple | Cross-Entropy | W-Avg F1: 65.21% | MELD | [Zhang et al., 2021](https://arxiv.org/abs/2106.01071) |
 
 ---
 
-## 🏷️ Citation
+### Survey Comparison (2020–2026)
+
+> A = Audio, T = Text, V = Visual, P = Physiological
+
+| Publication | Year | Modality | Uni-modal | Multi-modal | Evaluation | Pipeline | Dataset |
+|:-----------|:----:|:--------:|:---------:|:-----------:|:----------:|:--------:|:-------:|
+| [Speech Commun](https://www.sciencedirect.com/science/article/pii/S0167639319302262) | 2020 | A | ✅ | ❌ | ✅ | ❌ | ✅ |
+| [IEEE TAFFC](https://ieeexplore.ieee.org/document/9115253) | 2020 | A | ✅ | ❌ | ❌ | ❌ | ❌ |
+| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253520303419) | 2020 | A,T,V | ❌ | ✅ | ❌ | ❌ | ✅ |
+| [Electronics](https://www.mdpi.com/2079-9292/10/21/2617) | 2021 | A,T,V | ✅ | ✅ | ❌ | ✅ | ✅ |
+| [IEEE Signal Process. Mag.](https://ieeexplore.ieee.org/document/9551056) | 2021 | A,T,V | ❌ | ✅ | ❌ | ❌ | ✅ |
+| [Information Science](https://www.sciencedirect.com/science/article/pii/S0020025522001955) | 2022 | A,T,V | ✅ | ❌ | ❌ | ❌ | ✅ |
+| [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231222005422) | 2022 | A,T,V | ❌ | ✅ | ❌ | ❌ | ✅ |
+| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253522001634) | 2022 | A,T,V | ✅ | ✅ | ❌ | ❌ | ✅ |
+| [IEEE TIM](https://ieeexplore.ieee.org/document/10032659) | 2023 | V | ✅ | ❌ | ❌ | ❌ | ✅ |
+| [Proc. IEEE](https://ieeexplore.ieee.org/document/10101534) | 2023 | V | ✅ | ❌ | ✅ | ❌ | ✅ |
+| [IEEE TAFFC](https://ieeexplore.ieee.org/document/9512417) | 2023 | T | ✅ | ❌ | ❌ | ❌ | ✅ |
+| [Speech Commun](https://www.sciencedirect.com/science/article/pii/S0167639323000365) | 2023 | A | ✅ | ❌ | ❌ | ❌ | ✅ |
+| [IEEE Access](https://ieeexplore.ieee.org/document/10149004) | 2023 | A | ✅ | ❌ | ❌ | ❌ | ✅ |
+| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253523001501) | 2023 | A,T,V | ✅ | ✅ | ❌ | ❌ | ✅ |
+| [Entropy](https://www.mdpi.com/1099-4300/25/1/172) | 2023 | A,T,V | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231223006951) | 2023 | A,T,V,P | ✅ | ✅ | ❌ | ❌ | ✅ |
+| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253523004426) | 2024 | V | ✅ | ❌ | ❌ | ❌ | ✅ |
+| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253524000617) | 2024 | A,T,V,P | ❌ | ✅ | ❌ | ❌ | ✅ |
+| [IEEE Access](https://ieeexplore.ieee.org/document/10423244) | 2024 | A,T,V | ❌ | ✅ | ❌ | ❌ | ✅ |
+| [Expert Syst. Appl.](https://www.sciencedirect.com/science/article/pii/S0957417424002641) | 2024 | A,T,V | ✅ | ✅ | ❌ | ❌ | ✅ |
+| [Expert Systems](https://onlinelibrary.wiley.com/doi/10.1111/exsy.13714) | 2025 | A,T,V | ✅ | ✅ | ❌ | ❌ | ✅ |
+| [ACM TOMM](https://dl.acm.org/doi/10.1145/3706637) | 2025 | A,T,V,P | ❌ | ✅ | ❌ | ❌ | ✅ |
+| [IEEE Access](https://ieeexplore.ieee.org/document/10870430) | 2025 | A,T,V | ✅ | ✅ | ❌ | ❌ | ✅ |
+| [Information Fusion](https://www.sciencedirect.com/science/article/pii/S1566253525000000) | 2026 | S | ✅ | ❌ | ✅ | ✅ | ✅ |
+| **[Ours](https://arxiv.org/pdf/2306.13549.pdf)** | **2026** | **A,T,V,P** | **✅** | **✅** | **✅** | **✅** | **✅** |
+
+---
 
 If you find this repository or our survey useful for your research, please cite:
 
