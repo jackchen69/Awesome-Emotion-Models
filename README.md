@@ -72,6 +72,7 @@ A representative evaluation benchmark for multimodal emotion recognition. All co
 ## 📑 Table of Contents
 
 - [Survey Overview](#-our-survey)
+- - - [Classic Books](#-classic-books)
 - - [Benchmark Comparison](#-benchmark-comparison)
 - - [Awesome Datasets](#-awesome-datasets)
   - [Uni-modal Datasets](#uni-modal-datasets)
@@ -90,6 +91,146 @@ A representative evaluation benchmark for multimodal emotion recognition. All co
 
 ---
 
+---
+
+## 📚 Classic Books
+
+> Essential reading for researchers in affective computing, emotion recognition, and related fields. Organized by theme.
+
+---
+
+### 🧠 Affective Computing & Human-Computer Interaction
+
+| Cover | Title | Author(s) | Year | Publisher | Link |
+|:-----:|:------|:---------:|:----:|:---------:|:----:|
+| 📖 | **Affective Computing** | Rosalind W. Picard | 1997 | MIT Press | [Amazon](https://www.amazon.com/Affective-Computing-Rosalind-W-Picard/dp/0262661152) · [MIT Press](https://mitpress.mit.edu/9780262661157/affective-computing/) |
+| 📖 | **The Oxford Handbook of Affective Computing** | Calvo, D'Mello, Gratch, Kappas (Eds.) | 2015 | Oxford Univ. Press | [Amazon](https://www.amazon.com/Handbook-Affective-Computing-Library-Psychology/dp/0199942234) · [OUP](https://global.oup.com/academic/product/the-oxford-handbook-of-affective-computing-9780199942237) |
+| 📖 | **Applied Affective Computing** | Schuller, Batliner et al. | 2022 | ACM Books | [ACM DL](https://dl.acm.org/doi/book/10.1145/3502398) |
+| 📖 | **The Empathic Brain** | Christian Keysers | 2011 | Social Brain Press | [Amazon](https://www.amazon.com/Empathic-Brain-Christian-Keysers/dp/9081829602) |
+| 📖 | **Wired for Culture: Origins of the Human Social Mind** | Mark Pagel | 2012 | Norton | [Amazon](https://www.amazon.com/Wired-Culture-Origins-Human-Social/dp/0393343243) |
+
+> 💡 **Picard (1997)** is the founding text of affective computing — essential first read. **The Oxford Handbook** is the most comprehensive reference with 41 chapters on detection, generation, methodology, and applications.
+
+---
+
+### 😊 Emotion Psychology & Theory
+
+| Cover | Title | Author(s) | Year | Publisher | Link |
+|:-----:|:------|:---------:|:----:|:---------:|:----:|
+| 📖 | **Emotions Revealed: Recognizing Faces and Feelings** | Paul Ekman | 2003 | Times Books | [Amazon](https://www.amazon.com/Emotions-Revealed-Recognizing-Faces-Feelings/dp/0805083391) |
+| 📖 | **The Expression of the Emotions in Man and Animals** | Charles Darwin | 1872 | John Murray | [Free PDF](https://www.gutenberg.org/ebooks/1227) · [Amazon](https://www.amazon.com/Expression-Emotions-Man-Animals/dp/0226136418) |
+| 📖 | **Emotion: Theory, Research, and Experience (Vol. 1)** | Robert Plutchik & Henry Kellerman (Eds.) | 1980 | Academic Press | [Amazon](https://www.amazon.com/Emotion-Theory-Research-Experience-Theories/dp/0125587015) |
+| 📖 | **Handbook of Affective Sciences** | Davidson, Scherer, Goldsmith (Eds.) | 2003 | Oxford Univ. Press | [Amazon](https://www.amazon.com/Handbook-Affective-Sciences-Series-Affective/dp/0195145305) · [OUP](https://global.oup.com/academic/product/handbook-of-affective-sciences-9780195148attachment) |
+| 📖 | **The Emotional Brain** | Joseph LeDoux | 1996 | Simon & Schuster | [Amazon](https://www.amazon.com/Emotional-Brain-Mysterious-Underpinnings-Emotional/dp/0684836599) |
+| 📖 | **Descartes' Error: Emotion, Reason, and the Human Brain** | António Damásio | 1994 | Putnam | [Amazon](https://www.amazon.com/Descartes-Error-Emotion-Reason-Human/dp/014303622X) |
+| 📖 | **The Feeling of What Happens: Body, Emotion and the Making of Consciousness** | António Damásio | 1999 | Harcourt | [Amazon](https://www.amazon.com/Feeling-What-Happens-Emotion-Consciousness/dp/0156010755) |
+| 📖 | **How Emotions Are Made: The Secret Life of the Brain** | Lisa Feldman Barrett | 2017 | Houghton Mifflin | [Amazon](https://www.amazon.com/How-Emotions-Are-Made-Secret/dp/1328915433) |
+| 📖 | **Emotions in Social Psychology: Essential Readings** | W. Gerrod Parrott (Ed.) | 2001 | Psychology Press | [Amazon](https://www.amazon.com/Emotions-Social-Psychology-Essential-Readings/dp/0863778321) |
+| 📖 | **The Nature of Emotion: Fundamental Questions** | Ekman & Davidson (Eds.) | 1994 | Oxford Univ. Press | [Amazon](https://www.amazon.com/Nature-Emotion-Fundamental-Questions/dp/0195089448) |
+
+> 💡 **Ekman (2003)** is the definitive guide to reading facial expressions. **Damásio (1994)** revolutionized understanding of the emotion-cognition relationship and remains highly influential in affective computing.
+
+---
+
+### 🗣️ Speech & Audio Emotion
+
+| Cover | Title | Author(s) | Year | Publisher | Link |
+|:-----:|:------|:---------:|:----:|:---------:|:----:|
+| 📖 | **Computational Paralinguistics: Emotion, Affect and Personality in Speech and Language Processing** | Björn Schuller & Anton Batliner | 2013 | Wiley | [Amazon](https://www.amazon.com/Computational-Paralinguistics-Personality-Processing-Technology/dp/1119971128) · [Wiley](https://www.wiley.com/en-us/Computational+Paralinguistics%3A+Emotion%2C+Affect+and+Personality+in+Speech+and+Language+Processing-p-9781119971122) |
+| 📖 | **Speech and Language Processing** (3rd ed.) | Jurafsky & Martin | 2023 | Prentice Hall | [Free Draft](https://web.stanford.edu/~jurafsky/slp3/) |
+| 📖 | **Spoken Language Processing: A Guide to Theory, Algorithm, and System Development** | Huang, Acero & Hon | 2001 | Prentice Hall | [Amazon](https://www.amazon.com/Spoken-Language-Processing-Algorithm-Development/dp/0130226165) |
+| 📖 | **Fundamentals of Speech Recognition** | Rabiner & Juang | 1993 | Prentice Hall | [Amazon](https://www.amazon.com/Fundamentals-Speech-Recognition-Lawrence-Rabiner/dp/0130151572) |
+
+> 💡 **Schuller & Batliner (2013)** is the go-to textbook for speech-based emotion and paralinguistics — directly relevant to SER research. **Jurafsky & Martin** is the standard NLP reference, freely available online.
+
+---
+
+### 📝 Sentiment Analysis & NLP
+
+| Cover | Title | Author(s) | Year | Publisher | Link |
+|:-----:|:------|:---------:|:----:|:---------:|:----:|
+| 📖 | **Sentiment Analysis: Mining Opinions, Sentiments, and Emotions** (2nd ed.) | Bing Liu | 2020 | Cambridge Univ. Press | [Amazon](https://www.amazon.com/Sentiment-Analysis-Opinions-Sentiments-Processing/dp/1108486371) · [Cambridge](https://www.cambridge.org/core/books/sentiment-analysis/3F0F24BE12E66764ACE8F179BCDA42E9) |
+| 📖 | **Sentiment Analysis and Opinion Mining** | Bing Liu | 2012 | Morgan & Claypool | [Free PDF](https://www.cs.uic.edu/~liub/FBS/SentimentAnalysis-and-OpinionMining.pdf) · [Amazon](https://www.amazon.com/Sentiment-Analysis-Opinion-Mining-Synthesis/dp/1608458849) |
+| 📖 | **Natural Language Processing with Python** | Bird, Klein & Loper | 2009 | O'Reilly | [Free Online](https://www.nltk.org/book/) · [Amazon](https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495) |
+| 📖 | **Neural Network Methods for Natural Language Processing** | Yoav Goldberg | 2017 | Morgan & Claypool | [Amazon](https://www.amazon.com/Language-Processing-Synthesis-Lectures-Technologies/dp/1627052984) |
+| 📖 | **Speech and Language Processing** (3rd ed.) | Jurafsky & Martin | 2023 | Prentice Hall | [Free Draft](https://web.stanford.edu/~jurafsky/slp3/) |
+
+> 💡 **Bing Liu (2020)** is the definitive NLP text on sentiment analysis, now including deep learning and multimodal emotion analysis. The 2012 version is freely available as a PDF.
+
+---
+
+### 👁️ Computer Vision & Facial Expression
+
+| Cover | Title | Author(s) | Year | Publisher | Link |
+|:-----:|:------|:---------:|:----:|:---------:|:----:|
+| 📖 | **Facial Action Coding System (FACS): A Technique for the Measurement of Facial Movement** | Ekman & Friesen | 1978 | Consulting Psychologists Press | [Reference](https://www.paulekman.com/resources/facial-action-coding-system/) |
+| 📖 | **Deep Learning** | Goodfellow, Bengio & Courville | 2016 | MIT Press | [Free Online](https://www.deeplearningbook.org/) · [Amazon](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) |
+| 📖 | **Computer Vision: Algorithms and Applications** (2nd ed.) | Richard Szeliski | 2022 | Springer | [Free Online](https://szeliski.org/Book/) · [Amazon](https://www.amazon.com/Computer-Vision-Algorithms-Applications-Science/dp/3030343715) |
+| 📖 | **Programming Computer Vision with Python** | Jan Erik Solem | 2012 | O'Reilly | [Free Online](http://programmingcomputervision.com/) |
+
+> 💡 **Ekman & Friesen's FACS (1978)** is the foundational system for coding facial expressions used in virtually all FER datasets. **Goodfellow et al.** is the essential deep learning reference.
+
+---
+
+### 🤖 Deep Learning & Machine Learning
+
+| Cover | Title | Author(s) | Year | Publisher | Link |
+|:-----:|:------|:---------:|:----:|:---------:|:----:|
+| 📖 | **Deep Learning** | Goodfellow, Bengio & Courville | 2016 | MIT Press | [Free Online](https://www.deeplearningbook.org/) · [Amazon](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) |
+| 📖 | **Dive into Deep Learning** | Zhang, Lipton, Li & Smola | 2023 | Cambridge Univ. Press | [Free Online](https://d2l.ai/) · [Amazon](https://www.amazon.com/Dive-into-Deep-Learning/dp/1009389432) |
+| 📖 | **Pattern Recognition and Machine Learning** | Christopher Bishop | 2006 | Springer | [Free PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) · [Amazon](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738) |
+| 📖 | **Transformers for Natural Language Processing** | Denis Rothman | 2022 | Packt | [Amazon](https://www.amazon.com/Transformers-Natural-Language-Processing-architectures/dp/1803247339) |
+| 📖 | **Attention Is All You Need** *(paper, but landmark)* | Vaswani et al. | 2017 | NeurIPS | [arXiv](https://arxiv.org/abs/1706.03762) |
+
+---
+
+### 🌐 Multimodal Learning & Fusion
+
+| Cover | Title | Author(s) | Year | Publisher | Link |
+|:-----:|:------|:---------:|:----:|:---------:|:----:|
+| 📖 | **Multimodal Machine Learning: A Survey and Taxonomy** | Baltrušaitis, Ahuja & Morency | 2019 | IEEE TPAMI | [arXiv](https://arxiv.org/abs/1705.09406) · [IEEE](https://ieeexplore.ieee.org/document/8269806) |
+| 📖 | **Foundations and Trends in Multimodal Machine Learning** | Liang, Zadeh & Morency | 2022 | Now Publishers | [arXiv](https://arxiv.org/abs/2209.03430) |
+| 📖 | **Multimodal Deep Learning** | Ngiam et al. | 2011 | ICML | [PDF](https://ai.stanford.edu/~ang/papers/icml11-MultimodalDeepLearning.pdf) |
+
+---
+
+### 🧬 Neuroscience & Cognitive Science of Emotion
+
+| Cover | Title | Author(s) | Year | Publisher | Link |
+|:-----:|:------|:---------:|:----:|:---------:|:----:|
+| 📖 | **The Emotional Brain** | Joseph LeDoux | 1996 | Simon & Schuster | [Amazon](https://www.amazon.com/Emotional-Brain-Mysterious-Underpinnings-Emotional/dp/0684836599) |
+| 📖 | **Descartes' Error** | António Damásio | 1994 | Putnam | [Amazon](https://www.amazon.com/Descartes-Error-Emotion-Reason-Human/dp/014303622X) |
+| 📖 | **How Emotions Are Made** | Lisa Feldman Barrett | 2017 | Houghton Mifflin | [Amazon](https://www.amazon.com/How-Emotions-Are-Made-Secret/dp/1328915433) |
+| 📖 | **The Handbook of Emotion** (4th ed.) | Lewis, Haviland-Jones & Barrett (Eds.) | 2016 | Guilford Press | [Amazon](https://www.amazon.com/Handbook-Emotions-Fourth-Michael-Lewis/dp/1462525059) |
+| 📖 | **Cognitive Neuroscience of Emotion** | Lane & Nadel (Eds.) | 2000 | Oxford Univ. Press | [Amazon](https://www.amazon.com/Cognitive-Neuroscience-Emotion-Series-Affective/dp/0195119363) |
+
+---
+
+### ⚖️ Ethics, Fairness & Society
+
+| Cover | Title | Author(s) | Year | Publisher | Link |
+|:-----:|:------|:---------:|:----:|:---------:|:----:|
+| 📖 | **The Oxford Handbook of Ethics of AI** | Dubber, Pasquale & Das (Eds.) | 2020 | Oxford Univ. Press | [Amazon](https://www.amazon.com/Oxford-Handbook-Ethics-AI/dp/0190067397) |
+| 📖 | **Weapons of Math Destruction** | Cathy O'Neil | 2016 | Crown | [Amazon](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815) |
+| 📖 | **Atlas of AI** | Kate Crawford | 2021 | Yale Univ. Press | [Amazon](https://www.amazon.com/Atlas-AI-Kate-Crawford/dp/0300264631) |
+| 📖 | **The Oxford Handbook of Affective Computing** (Ethics Section) | Calvo et al. (Eds.) | 2015 | Oxford Univ. Press | [Amazon](https://www.amazon.com/Handbook-Affective-Computing-Library-Psychology/dp/0199942234) |
+
+---
+
+### 📋 Quick Reference: Books by Research Focus
+
+| If you work on... | Read this first |
+|:------------------|:----------------|
+| Affective Computing (foundations) | Picard, *Affective Computing* (1997) |
+| Emotion Theory & Psychology | Ekman, *Emotions Revealed* (2003) |
+| Speech Emotion Recognition | Schuller & Batliner, *Computational Paralinguistics* (2013) |
+| Text / Sentiment Analysis | Bing Liu, *Sentiment Analysis* (2020) |
+| Facial Expression Recognition | Ekman & Friesen, *FACS* (1978) |
+| Deep Learning Methods | Goodfellow et al., *Deep Learning* (2016) |
+| Multimodal Fusion | Baltrušaitis et al., *Multimodal ML Survey* (2019) |
+| Neuroscience of Emotion | Damásio, *Descartes' Error* (1994) |
+| AI Ethics & Fairness | O'Neil, *Weapons of Math Destruction* (2016) |
+| Comprehensive Reference | Calvo et al., *Oxford Handbook of Affective Computing* (2015) |
 
 ### Survey Comparison (2020–2026)
 
