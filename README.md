@@ -668,7 +668,7 @@ Please ensure the added work is **peer-reviewed** or on **arXiv** with verifiabl
 
 ## 📬 Contact
 
-- **Jiachen Luo** — [jiachen.luo@qmul.ac.uk](mailto:jiachen.luo@qmul.ac.uk) — Queen Mary University of London / TU Munich
+- **Jiachen Luo** — [jiachen.luo@qmul.ac.uk](mailto:jiachen.luo@qmul.ac.uk) — Queen Mary University of London / TU Munich （weichat:shai265130）
 - **Lin Wang** — [lin.wang@qmul.ac.uk](mailto:lin.wang@qmul.ac.uk) — Queen Mary University of London
 - **Bjoern Schuller** — [schuller@tum.de](mailto:schuller@tum.de) — Imperial College London / TU Munich
 - **Joshua Reiss** — [joshua.reiss@qmul.ac.uk](mailto:joshua.reiss@qmul.ac.uk) — Queen Mary University of London
